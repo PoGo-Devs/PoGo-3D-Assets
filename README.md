@@ -21,7 +21,7 @@
 
 |Nr|Name|Mod|Tex|Spl|Rig|Ani|Exp|Ori|Iss|
 |---|---|---|---|---|---|---|---|---|---|
-|1|Bulbasaur|Yes|Yes|Yes|Yes|in Progress|**No**|1|-|
+|1|Bulbasaur|Yes|Yes|Yes|Yes|WiP|**No**|1|-|
 |2|Ivysaur|Yes|Yes|**No**|Yes|**No**|**No**|1|-|
 |3|Venusaur|Yes|Yes|**No**|Yes|**No**|**No**|1|-|
 |4|Charmander|Yes|**No**|**No**|Yes|**No**|**No**|1|(m) Flametexture of the tail need to be done better|
