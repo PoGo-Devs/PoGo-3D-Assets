@@ -1,10 +1,5 @@
 # PoGo-3D-Assets
 
-###Todo
-
-- [ ] Model of 119-Seaking
-- [ ] UV-Maps fixed on every model
-- [ ] Textures finished on every model
 
 ###Progress
 
