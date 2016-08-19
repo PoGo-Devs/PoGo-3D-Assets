@@ -22,7 +22,7 @@
 |Ori|Origin|Origin of the 3D model:  1 = models-resource.com ; 2 = roestudios.co.uk|
 |Iss|Issues|Issues that have to be fixed with priority:  (s) - small  ,  (m) - medium  ,  (h) - high|
 
-> **Gen 1**
+> **Gen 1:**
 
 |Nr|Name|Mod|Tex|Spl|Rig|Ani|Exp|Ori|Iss|
 |---|---|---|---|---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 |141|Kabutops|Yes|**No**|**No**|**No**|**No**|**No**|2|(m) UVW needs to be fixed|
 |142|Aerodactyl|Yes|**No**|**No**|Yes|**No**|**No**|1|-|
 |143|Snorlax|Yes|**No**|**No**|Yes|**No**|**No**|1|-|
-|144|Articu**No**|Yes|Yes|**No**|Yes|**No**|**No**|1|-|
+|144|Articuno|Yes|Yes|**No**|Yes|**No**|**No**|1|-|
 |145|Zapdos|Yes|Yes|**No**|Yes|**No**|**No**|1|-|
 |146|Moltres|Yes|**No**|**No**|Yes|**No**|**No**|1|-|
 |147|Dratini|Yes|**No**|**No**|Yes|**No**|**No**|1|-|
