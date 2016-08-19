@@ -1,0 +1,54 @@
+# Blender MTL File: 'clefairy.blend'
+# Material Count: 4
+
+newmtl Body
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Body1_0.png
+map_Ks pm0035_00_Body2.png
+map_Disp pm0035_00_BodyNor.png
+map_Ns pm0035_00_Body2.png
+
+newmtl LEye
+Ns -1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Eye1_0.png
+map_Ks pm0035_00_Eye2.png
+map_Disp pm0035_00_EyeNor.png
+map_Ns pm0035_00_Eye2.png
+
+newmtl Mouth
+Ns -1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Mouth1_0.png
+map_Ks pm0035_00_Mouth2.png
+map_Disp pm0035_00_MouthNor.png
+map_Ns pm0035_00_Mouth2.png
+
+newmtl REye
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Eye1_0.png
+map_Ks pm0035_00_Eye2.png
+map_Disp pm0035_00_EyeNor.png
+map_Ns pm0035_00_Eye2.png
