@@ -139,7 +139,7 @@
 |116|Horsea|Yes|**No**|**No**|**No**|**No**|**No**|2|(m) UVW needs to be fixed|
 |117|Seadra|Yes|**No**|**No**|**No**|**No**|**No**|2|(m) UVW needs to be fixed|
 |118|Goldeen|Yes|Yes|Yes|Yes|**No**|**No**|1|-|
-|119|Seaking|**Yes**|**No**|**No**|**Yes**|**No**|**No**|-|(h) Needs to be Textured|
+|119|Seaking|**No**|**No**|**No**|**No**|**No**|**No**|-|(h) Model needs to be done or found|
 |120|Staryu|Yes|**No**|**No**|Yes|**No**|**No**|1|-|
 |121|Starmie|Yes|**No**|**No**|Yes|**No**|**No**|1|-|
 |122|Mr. Mime|Yes|**No**|**No**|Yes|**No**|**No**|1|-|
