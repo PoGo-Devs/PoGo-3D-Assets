@@ -6,16 +6,16 @@
 > **Explanation**
 
 
-|||Description|
-|---|---|---|
-|Mod|Model|There is a 3D mesh of the Pokemon|
-|Tex|Textured|The mesh is fully and flawlessly textured, all unnescesary textures and UVW maps are removed|
-|Spl|Split|The model is split in several sub-meshes so that only one texture is applied to one mesh (required for AR-pipeline)|
-|Rig|Rigged|The pokemon has a functional skeleton and is therefor ready to be animated |
-|Ani|Animated|The pokemon is fully animated and ready to be exported for the app|
-|Exp|Exported|The pokemon has been exported as FBX file andthe FBX file has been successfully tested on the pipeline|
-|Ori|Origin|Origin of the 3D model:  1 = models-resource.com ; 2 = roestudios.co.uk|
-|Iss|Issues|Issues that have to be fixed with priority:  (s) - small  ,  (m) - medium  ,  (h) - high|
+||Description|
+|---|---|
+|Model|There is a 3D mesh of the Pokemon|
+|Textured|The mesh is fully and flawlessly textured, all unnescesary textures and UVW maps are removed|
+|Split|The model is split in several sub-meshes so that only one texture is applied to one mesh (required for AR-pipeline)|
+|Rigged|The pokemon has a functional skeleton and is therefor ready to be animated |
+|Animated|The pokemon is fully animated and ready to be exported for the app|
+|Exported|The pokemon has been exported as FBX file andthe FBX file has been successfully tested on the pipeline|
+|Origin|Origin of the 3D model:  1 = models-resource.com ; 2 = roestudios.co.uk|
+|Issues|Issues that have to be fixed with priority:  (s) - small  ,  (m) - medium  ,  (h) - high|
 
 > **Gen 1:**
 
