@@ -1,5 +1,6 @@
 # PoGo-3D-Assets
 
+If you want to help check out the issues and make a coment on what you are working.
 
 ###Progress
 
