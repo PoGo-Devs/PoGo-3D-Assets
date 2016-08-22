@@ -2,6 +2,8 @@
 
 If you want to help check out the issues and make a coment on what you are working.
 
+From now on all changes will be uploaded in both dae and fbx formats
+
 Maybe we can exchange all models from "roestudios.co.uk" with models from "models-resource.com", they come fully rigged. If you want to help, start with models from "models-resource.com" please! I'll keep you updated =)
 
 ###Progress
