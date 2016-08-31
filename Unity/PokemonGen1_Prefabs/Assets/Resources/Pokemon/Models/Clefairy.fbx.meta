@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 73d05e0ae211bbe4f87e01c67ef14a7e
-timeCreated: 1472638299
+guid: 9e2c2b42244910e42937adbaa3e58992
+timeCreated: 1472656233
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: clefairy_obj
+    4300000: Ebene_1
     9500000: //RootNode
   materials:
     importMaterials: 1

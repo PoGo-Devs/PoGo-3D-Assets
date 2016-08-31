@@ -1,37 +1,15 @@
 fileFormatVersion: 2
-guid: 7a40c72cac919b049bb3838baa6b9dc4
-timeCreated: 1472638335
+guid: e66f4fd5ccc21bf4ab7e9e179a75bb78
+timeCreated: 1472658521
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Mesh_1__Body04_
-    100002: Mesh_2__Body00_
-    100004: Mesh_3__Body01_
-    100006: Mesh_4__Body02_
-    100008: Mesh_5__Body03_
-    100010: //RootNode
-    400000: Mesh_1__Body04_
-    400002: Mesh_2__Body00_
-    400004: Mesh_3__Body01_
-    400006: Mesh_4__Body02_
-    400008: Mesh_5__Body03_
-    400010: //RootNode
-    2300000: Mesh_1__Body04_
-    2300002: Mesh_2__Body00_
-    2300004: Mesh_3__Body01_
-    2300006: Mesh_4__Body02_
-    2300008: Mesh_5__Body03_
-    3300000: Mesh_1__Body04_
-    3300002: Mesh_2__Body00_
-    3300004: Mesh_3__Body01_
-    3300006: Mesh_4__Body02_
-    3300008: Mesh_5__Body03_
-    4300000: Mesh_1__Body04_
-    4300002: Mesh_2__Body00_
-    4300004: Mesh_3__Body01_
-    4300006: Mesh_4__Body02_
-    4300008: Mesh_5__Body03_
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Ebene_1
     9500000: //RootNode
   materials:
     importMaterials: 1

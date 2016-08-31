@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 0cf97de6ff048e04ab0dcd69edbacdbc
-timeCreated: 1472638536
+guid: 43349dce7bfbba640b5669bc290898ac
+timeCreated: 1472655258
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -95,36 +95,35 @@ ModelImporter:
     100174: mesh_3_pm0088_00_BodySkin
     100176: mesh_4_pm0088_00_LiquidASkin
     100178: mesh_5_pm0088_00_LiquidBSkin
-    100180: mesh_6_pm0088_00_BetoSkin
-    100182: mesh_7_pm0088_00_EyeSkin
-    100184: Neck
-    100186: Origin
-    100188: pm0088_00
-    100190: pm0088_00_BetoSkin
-    100192: pm0088_00_BodySkin
-    100194: pm0088_00_EyeSkin
-    100196: pm0088_00_LiquidASkin
-    100198: pm0088_00_LiquidBSkin
-    100200: RArm1
-    100202: RArm2
-    100204: RFingerA
-    100206: RFingerB
-    100208: RFingerC
-    100210: RForeArm
-    100212: RHand
-    100214: RShoulder
-    100216: Spine1
-    100218: Spine2
-    100220: Tail1
-    100222: Tail2
-    100224: UpperCurlA
-    100226: UpperCurlB
-    100228: UpperCurlC
-    100230: UpperCurlD
-    100232: UpperCurlE
-    100234: UpperCurlF
-    100236: UpperJaw
-    100238: Waist
+    100180: mesh_7_pm0088_00_EyeSkin
+    100182: Neck
+    100184: Origin
+    100186: pm0088_00
+    100188: pm0088_00_BetoSkin
+    100190: pm0088_00_BodySkin
+    100192: pm0088_00_EyeSkin
+    100194: pm0088_00_LiquidASkin
+    100196: pm0088_00_LiquidBSkin
+    100198: RArm1
+    100200: RArm2
+    100202: RFingerA
+    100204: RFingerB
+    100206: RFingerC
+    100208: RForeArm
+    100210: RHand
+    100212: RShoulder
+    100214: Spine1
+    100216: Spine2
+    100218: Tail1
+    100220: Tail2
+    100222: UpperCurlA
+    100224: UpperCurlB
+    100226: UpperCurlC
+    100228: UpperCurlD
+    100230: UpperCurlE
+    100232: UpperCurlF
+    100234: UpperJaw
+    100236: Waist
     400000: EndFeelerA
     400002: EndFeelerB
     400004: EndFeelerC
@@ -215,44 +214,42 @@ ModelImporter:
     400174: mesh_3_pm0088_00_BodySkin
     400176: mesh_4_pm0088_00_LiquidASkin
     400178: mesh_5_pm0088_00_LiquidBSkin
-    400180: mesh_6_pm0088_00_BetoSkin
-    400182: mesh_7_pm0088_00_EyeSkin
-    400184: Neck
-    400186: Origin
-    400188: pm0088_00
-    400190: pm0088_00_BetoSkin
-    400192: pm0088_00_BodySkin
-    400194: pm0088_00_EyeSkin
-    400196: pm0088_00_LiquidASkin
-    400198: pm0088_00_LiquidBSkin
-    400200: RArm1
-    400202: RArm2
-    400204: RFingerA
-    400206: RFingerB
-    400208: RFingerC
-    400210: RForeArm
-    400212: RHand
-    400214: RShoulder
-    400216: Spine1
-    400218: Spine2
-    400220: Tail1
-    400222: Tail2
-    400224: UpperCurlA
-    400226: UpperCurlB
-    400228: UpperCurlC
-    400230: UpperCurlD
-    400232: UpperCurlE
-    400234: UpperCurlF
-    400236: UpperJaw
-    400238: Waist
+    400180: mesh_7_pm0088_00_EyeSkin
+    400182: Neck
+    400184: Origin
+    400186: pm0088_00
+    400188: pm0088_00_BetoSkin
+    400190: pm0088_00_BodySkin
+    400192: pm0088_00_EyeSkin
+    400194: pm0088_00_LiquidASkin
+    400196: pm0088_00_LiquidBSkin
+    400198: RArm1
+    400200: RArm2
+    400202: RFingerA
+    400204: RFingerB
+    400206: RFingerC
+    400208: RForeArm
+    400210: RHand
+    400212: RShoulder
+    400214: Spine1
+    400216: Spine2
+    400218: Tail1
+    400220: Tail2
+    400222: UpperCurlA
+    400224: UpperCurlB
+    400226: UpperCurlC
+    400228: UpperCurlD
+    400230: UpperCurlE
+    400232: UpperCurlF
+    400234: UpperJaw
+    400236: Waist
     4300000: mesh_0_pm0088_00_BodySkin
     4300002: mesh_1_pm0088_00_BodySkin
     4300004: mesh_4_pm0088_00_LiquidASkin
     4300006: mesh_5_pm0088_00_LiquidBSkin
     4300008: mesh_2_pm0088_00_BodySkin
     4300010: mesh_3_pm0088_00_BodySkin
-    4300012: mesh_6_pm0088_00_BetoSkin
-    4300014: mesh_7_pm0088_00_EyeSkin
+    4300012: mesh_7_pm0088_00_EyeSkin
     9500000: //RootNode
     13700000: mesh_0_pm0088_00_BodySkin
     13700002: mesh_1_pm0088_00_BodySkin
@@ -260,8 +257,7 @@ ModelImporter:
     13700006: mesh_3_pm0088_00_BodySkin
     13700008: mesh_4_pm0088_00_LiquidASkin
     13700010: mesh_5_pm0088_00_LiquidBSkin
-    13700012: mesh_6_pm0088_00_BetoSkin
-    13700014: mesh_7_pm0088_00_EyeSkin
+    13700012: mesh_7_pm0088_00_EyeSkin
   materials:
     importMaterials: 1
     materialName: 0
