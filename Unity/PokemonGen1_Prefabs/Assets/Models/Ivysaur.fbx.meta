@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 34331312b9b7942469062318f4095bcb
+timeCreated: 1472630208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndFeelerA2
+    100002: EndFeelerB3
+    100004: EndFeelerC3
+    100006: EndHips
+    100008: EndJaw
+    100010: EndLEar
+    100012: EndLFeeler3
+    100014: EndLFinger
+    100016: EndLFoot
+    100018: EndLHand
+    100020: EndLToe
+    100022: EndREar
+    100024: EndRFeeler3
+    100026: EndRFinger
+    100028: EndRFoot
+    100030: EndRHand
+    100032: EndRToe
+    100034: FeelerA1
+    100036: FeelerA2
+    100038: FeelerB1
+    100040: FeelerB2
+    100042: FeelerB3
+    100044: FeelerC1
+    100046: FeelerC2
+    100048: FeelerC3
+    100050: Head
+    100052: Hips
+    100054: //RootNode
+    100056: Ivysaur
+    100058: Jaw
+    100060: LArm
+    100062: LEar
+    100064: LFeeler1
+    100066: LFeeler2
+    100068: LFeeler3
+    100070: LFinger
+    100072: LFoot
+    100074: LForeArm
+    100076: LHand
+    100078: LLeg
+    100080: LShoulder
+    100082: LThigh
+    100084: LToe
+    100086: Origin
+    100088: pm0002_00
+    100090: pm0002_00_BodySkin
+    100092: pm0002_00_FlowerSkin
+    100094: pm0002_00_LeafSkin
+    100096: RArm
+    100098: REar
+    100100: RFeeler1
+    100102: RFeeler2
+    100104: RFeeler3
+    100106: RFinger
+    100108: RFoot
+    100110: RForeArm
+    100112: RHand
+    100114: RLeg
+    100116: RShoulder
+    100118: RThigh
+    100120: RToe
+    100122: Spine1
+    100124: Spine2
+    100126: Waist
+    400000: EndFeelerA2
+    400002: EndFeelerB3
+    400004: EndFeelerC3
+    400006: EndHips
+    400008: EndJaw
+    400010: EndLEar
+    400012: EndLFeeler3
+    400014: EndLFinger
+    400016: EndLFoot
+    400018: EndLHand
+    400020: EndLToe
+    400022: EndREar
+    400024: EndRFeeler3
+    400026: EndRFinger
+    400028: EndRFoot
+    400030: EndRHand
+    400032: EndRToe
+    400034: FeelerA1
+    400036: FeelerA2
+    400038: FeelerB1
+    400040: FeelerB2
+    400042: FeelerB3
+    400044: FeelerC1
+    400046: FeelerC2
+    400048: FeelerC3
+    400050: Head
+    400052: Hips
+    400054: //RootNode
+    400056: Ivysaur
+    400058: Jaw
+    400060: LArm
+    400062: LEar
+    400064: LFeeler1
+    400066: LFeeler2
+    400068: LFeeler3
+    400070: LFinger
+    400072: LFoot
+    400074: LForeArm
+    400076: LHand
+    400078: LLeg
+    400080: LShoulder
+    400082: LThigh
+    400084: LToe
+    400086: Origin
+    400088: pm0002_00
+    400090: pm0002_00_BodySkin
+    400092: pm0002_00_FlowerSkin
+    400094: pm0002_00_LeafSkin
+    400096: RArm
+    400098: REar
+    400100: RFeeler1
+    400102: RFeeler2
+    400104: RFeeler3
+    400106: RFinger
+    400108: RFoot
+    400110: RForeArm
+    400112: RHand
+    400114: RLeg
+    400116: RShoulder
+    400118: RThigh
+    400120: RToe
+    400122: Spine1
+    400124: Spine2
+    400126: Waist
+    4300000: Ivysaur
+    9500000: //RootNode
+    13700000: Ivysaur
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
