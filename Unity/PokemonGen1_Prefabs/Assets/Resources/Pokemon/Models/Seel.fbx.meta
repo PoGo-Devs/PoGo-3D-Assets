@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 485622f3e32b1d743a9141cd7b4d85d3
+timeCreated: 1472638520
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHead
+    100002: EndLFinger
+    100004: EndLTail4
+    100006: EndNose
+    100008: EndRFinger
+    100010: EndRTail4
+    100012: EndTail4
+    100014: EndTongue2
+    100016: Head
+    100018: Hips
+    100020: LArm
+    100022: LFinger
+    100024: LForeArm
+    100026: LHand
+    100028: LShoulder
+    100030: LTail1
+    100032: LTail2
+    100034: LTail3
+    100036: LTail4
+    100038: Neck
+    100040: Nose
+    100042: Origin
+    100044: pm0086_00
+    100046: pm0086_00_Skin
+    100048: RArm
+    100050: RFinger
+    100052: RForeArm
+    100054: RHand
+    100056: RShoulder
+    100058: RTail1
+    100060: RTail2
+    100062: RTail3
+    100064: RTail4
+    100066: //RootNode
+    100068: Seel
+    100070: Spine1
+    100072: Spine2
+    100074: Tail1
+    100076: Tail2
+    100078: Tail3
+    100080: Tail4
+    100082: Tongue1
+    100084: Tongue2
+    100086: Waist
+    400000: EndHead
+    400002: EndLFinger
+    400004: EndLTail4
+    400006: EndNose
+    400008: EndRFinger
+    400010: EndRTail4
+    400012: EndTail4
+    400014: EndTongue2
+    400016: Head
+    400018: Hips
+    400020: LArm
+    400022: LFinger
+    400024: LForeArm
+    400026: LHand
+    400028: LShoulder
+    400030: LTail1
+    400032: LTail2
+    400034: LTail3
+    400036: LTail4
+    400038: Neck
+    400040: Nose
+    400042: Origin
+    400044: pm0086_00
+    400046: pm0086_00_Skin
+    400048: RArm
+    400050: RFinger
+    400052: RForeArm
+    400054: RHand
+    400056: RShoulder
+    400058: RTail1
+    400060: RTail2
+    400062: RTail3
+    400064: RTail4
+    400066: Seel
+    400068: //RootNode
+    400070: Spine1
+    400072: Spine2
+    400074: Tail1
+    400076: Tail2
+    400078: Tail3
+    400080: Tail4
+    400082: Tongue1
+    400084: Tongue2
+    400086: Waist
+    4300000: Seel
+    9500000: //RootNode
+    13700000: Seel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

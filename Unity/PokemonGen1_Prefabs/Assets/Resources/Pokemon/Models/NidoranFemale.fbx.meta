@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 8ac63bca91a37214092200283ea798b1
+timeCreated: 1472638278
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHips
+    100002: EndJaw
+    100004: EndLEar2
+    100006: EndLFeelerA
+    100008: EndLFeelerB
+    100010: EndLFinger
+    100012: EndLFoot
+    100014: EndLHand
+    100016: EndLToe
+    100018: EndNose
+    100020: EndREar2
+    100022: EndRFeelerA
+    100024: EndRFeelerB
+    100026: EndRFinger
+    100028: EndRFoot
+    100030: EndRHand
+    100032: EndRToe
+    100034: Head
+    100036: Hips
+    100038: Jaw
+    100040: LArm
+    100042: LEar1
+    100044: LEar2
+    100046: LFeelerA
+    100048: LFeelerB
+    100050: LFinger
+    100052: LFoot
+    100054: LForeArm
+    100056: LHand
+    100058: LLeg
+    100060: LShoulder
+    100062: LThigh
+    100064: LToe
+    100066: NidoranF
+    100068: //RootNode
+    100070: Nose
+    100072: Origin
+    100074: pm0029_00
+    100076: pm0029_00_Skin
+    100078: RArm
+    100080: REar1
+    100082: REar2
+    100084: RFeelerA
+    100086: RFeelerB
+    100088: RFinger
+    100090: RFoot
+    100092: RForeArm
+    100094: RHand
+    100096: RLeg
+    100098: RShoulder
+    100100: RThigh
+    100102: RToe
+    100104: Spine1
+    100106: Spine2
+    100108: Waist
+    400000: EndHips
+    400002: EndJaw
+    400004: EndLEar2
+    400006: EndLFeelerA
+    400008: EndLFeelerB
+    400010: EndLFinger
+    400012: EndLFoot
+    400014: EndLHand
+    400016: EndLToe
+    400018: EndNose
+    400020: EndREar2
+    400022: EndRFeelerA
+    400024: EndRFeelerB
+    400026: EndRFinger
+    400028: EndRFoot
+    400030: EndRHand
+    400032: EndRToe
+    400034: Head
+    400036: Hips
+    400038: Jaw
+    400040: LArm
+    400042: LEar1
+    400044: LEar2
+    400046: LFeelerA
+    400048: LFeelerB
+    400050: LFinger
+    400052: LFoot
+    400054: LForeArm
+    400056: LHand
+    400058: LLeg
+    400060: LShoulder
+    400062: LThigh
+    400064: LToe
+    400066: NidoranF
+    400068: //RootNode
+    400070: Nose
+    400072: Origin
+    400074: pm0029_00
+    400076: pm0029_00_Skin
+    400078: RArm
+    400080: REar1
+    400082: REar2
+    400084: RFeelerA
+    400086: RFeelerB
+    400088: RFinger
+    400090: RFoot
+    400092: RForeArm
+    400094: RHand
+    400096: RLeg
+    400098: RShoulder
+    400100: RThigh
+    400102: RToe
+    400104: Spine1
+    400106: Spine2
+    400108: Waist
+    4300000: NidoranF
+    9500000: //RootNode
+    13700000: NidoranF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

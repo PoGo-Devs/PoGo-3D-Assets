@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: d168fab449d6ffa498209b7939633bd4
+timeCreated: 1472638489
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHead
+    100002: EndHips
+    100004: EndJaw
+    100006: EndLEar
+    100008: EndLFoot
+    100010: EndLHand
+    100012: EndREar
+    100014: EndRFoot
+    100016: EndRHand
+    100018: EndTail8
+    100020: Head
+    100022: Hips
+    100024: Jaw
+    100026: LArm
+    100028: LEar
+    100030: LFoot
+    100032: LForeArm
+    100034: LHand
+    100036: LHips
+    100038: LLeg
+    100040: LShoulder
+    100042: LThigh
+    100044: Origin
+    100046: pm0079_00
+    100048: pm0079_00_Skin
+    100050: RArm
+    100052: REar
+    100054: RFoot
+    100056: RForeArm
+    100058: RHand
+    100060: RHips
+    100062: RLeg
+    100064: RShoulder
+    100066: RThigh
+    100068: //RootNode
+    100070: Slowpoke
+    100072: Spine1
+    100074: Spine2
+    100076: Tail1
+    100078: Tail2
+    100080: Tail3
+    100082: Tail4
+    100084: Tail5
+    100086: Tail6
+    100088: Tail7
+    100090: Tail8
+    100092: Waist
+    400000: EndHead
+    400002: EndHips
+    400004: EndJaw
+    400006: EndLEar
+    400008: EndLFoot
+    400010: EndLHand
+    400012: EndREar
+    400014: EndRFoot
+    400016: EndRHand
+    400018: EndTail8
+    400020: Head
+    400022: Hips
+    400024: Jaw
+    400026: LArm
+    400028: LEar
+    400030: LFoot
+    400032: LForeArm
+    400034: LHand
+    400036: LHips
+    400038: LLeg
+    400040: LShoulder
+    400042: LThigh
+    400044: Origin
+    400046: pm0079_00
+    400048: pm0079_00_Skin
+    400050: RArm
+    400052: REar
+    400054: RFoot
+    400056: RForeArm
+    400058: RHand
+    400060: RHips
+    400062: RLeg
+    400064: RShoulder
+    400066: RThigh
+    400068: Slowpoke
+    400070: //RootNode
+    400072: Spine1
+    400074: Spine2
+    400076: Tail1
+    400078: Tail2
+    400080: Tail3
+    400082: Tail4
+    400084: Tail5
+    400086: Tail6
+    400088: Tail7
+    400090: Tail8
+    400092: Waist
+    4300000: Slowpoke
+    9500000: //RootNode
+    13700000: Slowpoke
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

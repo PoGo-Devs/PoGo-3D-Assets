@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 01a37f20d491a6942b2f0a5f275ce49a
+timeCreated: 1472639873
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHead
+    100002: EndHips
+    100004: EndJaw
+    100006: EndLFeelerA
+    100008: EndLFeelerB
+    100010: EndLFoot
+    100012: EndLHand
+    100014: EndLToe
+    100016: EndRFeelerA
+    100018: EndRFeelerB
+    100020: EndRFoot
+    100022: EndRHand
+    100024: EndRToe
+    100026: Head
+    100028: Hips
+    100030: Jaw
+    100032: LArm
+    100034: LFeelerA
+    100036: LFeelerB
+    100038: LFoot
+    100040: LForeArm
+    100042: LHand
+    100044: LLeg
+    100046: LShoulder
+    100048: LThigh
+    100050: LToe
+    100052: Neck
+    100054: Origin
+    100056: pm0123_00_BodySkin
+    100058: pm0123_00_HipSkin
+    100060: pm0123_00_IrisSkin
+    100062: pm0123_00_strike
+    100064: RArm
+    100066: RFeelerA
+    100068: RFeelerB
+    100070: RFoot
+    100072: RForeArm
+    100074: RHand
+    100076: RLeg
+    100078: RShoulder
+    100080: RThigh
+    100082: RToe
+    100084: //RootNode
+    100086: Scyther
+    100088: Spine
+    100090: VriVis00
+    100092: Waist
+    400000: EndHead
+    400002: EndHips
+    400004: EndJaw
+    400006: EndLFeelerA
+    400008: EndLFeelerB
+    400010: EndLFoot
+    400012: EndLHand
+    400014: EndLToe
+    400016: EndRFeelerA
+    400018: EndRFeelerB
+    400020: EndRFoot
+    400022: EndRHand
+    400024: EndRToe
+    400026: Head
+    400028: Hips
+    400030: Jaw
+    400032: LArm
+    400034: LFeelerA
+    400036: LFeelerB
+    400038: LFoot
+    400040: LForeArm
+    400042: LHand
+    400044: LLeg
+    400046: LShoulder
+    400048: LThigh
+    400050: LToe
+    400052: Neck
+    400054: Origin
+    400056: pm0123_00_BodySkin
+    400058: pm0123_00_HipSkin
+    400060: pm0123_00_IrisSkin
+    400062: pm0123_00_strike
+    400064: RArm
+    400066: RFeelerA
+    400068: RFeelerB
+    400070: RFoot
+    400072: RForeArm
+    400074: RHand
+    400076: RLeg
+    400078: RShoulder
+    400080: RThigh
+    400082: RToe
+    400084: Scyther
+    400086: //RootNode
+    400088: Spine
+    400090: VriVis00
+    400092: Waist
+    4300000: Scyther
+    9500000: //RootNode
+    13700000: Scyther
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

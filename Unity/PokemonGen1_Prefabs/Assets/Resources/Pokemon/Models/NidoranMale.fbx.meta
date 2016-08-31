@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 3a5e04267e0680a42b44ceb7234a4e50
+timeCreated: 1472638291
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHips
+    100002: EndJaw
+    100004: EndLEar2
+    100006: EndLFinger
+    100008: EndLFoot
+    100010: EndLHand
+    100012: EndLToe
+    100014: EndNose
+    100016: EndREar2
+    100018: EndRFinger
+    100020: EndRFoot
+    100022: EndRHand
+    100024: EndRToe
+    100026: Head
+    100028: Hips
+    100030: Jaw
+    100032: LArm
+    100034: LEar1
+    100036: LEar2
+    100038: LFinger
+    100040: LFoot
+    100042: LForeArm
+    100044: LHand
+    100046: LHips
+    100048: LLeg
+    100050: LShoulder
+    100052: LThigh
+    100054: LToe
+    100056: NidoranM
+    100058: //RootNode
+    100060: Nose
+    100062: Origin
+    100064: pm0032_00
+    100066: pm0032_00_IrisSkin
+    100068: pm0032_00_Skin
+    100070: RArm
+    100072: REar1
+    100074: REar2
+    100076: RFinger
+    100078: RFoot
+    100080: RForeArm
+    100082: RHand
+    100084: RHips
+    100086: RLeg
+    100088: RShoulder
+    100090: RThigh
+    100092: RToe
+    100094: Spine1
+    100096: Spine2
+    100098: Waist
+    400000: EndHips
+    400002: EndJaw
+    400004: EndLEar2
+    400006: EndLFinger
+    400008: EndLFoot
+    400010: EndLHand
+    400012: EndLToe
+    400014: EndNose
+    400016: EndREar2
+    400018: EndRFinger
+    400020: EndRFoot
+    400022: EndRHand
+    400024: EndRToe
+    400026: Head
+    400028: Hips
+    400030: Jaw
+    400032: LArm
+    400034: LEar1
+    400036: LEar2
+    400038: LFinger
+    400040: LFoot
+    400042: LForeArm
+    400044: LHand
+    400046: LHips
+    400048: LLeg
+    400050: LShoulder
+    400052: LThigh
+    400054: LToe
+    400056: NidoranM
+    400058: //RootNode
+    400060: Nose
+    400062: Origin
+    400064: pm0032_00
+    400066: pm0032_00_IrisSkin
+    400068: pm0032_00_Skin
+    400070: RArm
+    400072: REar1
+    400074: REar2
+    400076: RFinger
+    400078: RFoot
+    400080: RForeArm
+    400082: RHand
+    400084: RHips
+    400086: RLeg
+    400088: RShoulder
+    400090: RThigh
+    400092: RToe
+    400094: Spine1
+    400096: Spine2
+    400098: Waist
+    4300000: NidoranM
+    9500000: //RootNode
+    13700000: NidoranM
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

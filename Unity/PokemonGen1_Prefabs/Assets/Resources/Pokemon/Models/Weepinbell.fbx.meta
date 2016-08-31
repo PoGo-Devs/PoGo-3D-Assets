@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 3d866ca6053d2344f9bdcd62439eb4b1
+timeCreated: 1472638456
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHair5
+    100002: EndJaw
+    100004: EndLFeeler
+    100006: EndLHand
+    100008: EndLJaw
+    100010: EndLJawA
+    100012: EndLJawB
+    100014: EndLowerJaw
+    100016: EndRFeeler
+    100018: EndRHand
+    100020: EndRJaw
+    100022: EndRJawA
+    100024: EndRJawB
+    100026: EndUpperJaw
+    100028: Hair1
+    100030: Hair2
+    100032: Hair3
+    100034: Hair4
+    100036: Hair5
+    100038: Head1
+    100040: Head2
+    100042: Jaw
+    100044: LArm
+    100046: LFeeler
+    100048: LForeArm
+    100050: LHand
+    100052: LJaw
+    100054: LJawA
+    100056: LJawB
+    100058: LowerJaw
+    100060: Origin
+    100062: pm0070_00
+    100064: pm0070_00_Skin
+    100066: RArm
+    100068: RFeeler
+    100070: RForeArm
+    100072: RHand
+    100074: RJaw
+    100076: RJawA
+    100078: RJawB
+    100080: Tail1
+    100082: Tail2
+    100084: Tail3
+    100086: UpperJaw
+    100088: Waist
+    100090: Weepinbell
+    100092: //RootNode
+    400000: EndHair5
+    400002: EndJaw
+    400004: EndLFeeler
+    400006: EndLHand
+    400008: EndLJaw
+    400010: EndLJawA
+    400012: EndLJawB
+    400014: EndLowerJaw
+    400016: EndRFeeler
+    400018: EndRHand
+    400020: EndRJaw
+    400022: EndRJawA
+    400024: EndRJawB
+    400026: EndUpperJaw
+    400028: Hair1
+    400030: Hair2
+    400032: Hair3
+    400034: Hair4
+    400036: Hair5
+    400038: Head1
+    400040: Head2
+    400042: Jaw
+    400044: LArm
+    400046: LFeeler
+    400048: LForeArm
+    400050: LHand
+    400052: LJaw
+    400054: LJawA
+    400056: LJawB
+    400058: LowerJaw
+    400060: Origin
+    400062: pm0070_00
+    400064: pm0070_00_Skin
+    400066: RArm
+    400068: RFeeler
+    400070: RForeArm
+    400072: RHand
+    400074: RJaw
+    400076: RJawA
+    400078: RJawB
+    400080: Tail1
+    400082: Tail2
+    400084: Tail3
+    400086: UpperJaw
+    400088: Waist
+    400090: //RootNode
+    400092: Weepinbell
+    4300000: Weepinbell
+    9500000: //RootNode
+    13700000: Weepinbell
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

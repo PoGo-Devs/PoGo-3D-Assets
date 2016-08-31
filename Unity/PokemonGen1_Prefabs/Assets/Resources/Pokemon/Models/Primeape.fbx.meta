@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 13b81d2454b9c3543a7228d23f39df2b
+timeCreated: 1472638402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001_pm0057_00
+    100002: 002_Origin
+    100004: 003_Waist
+    100006: 004_EndWaist
+    100008: 005_LArm
+    100010: 006_LForeArm
+    100012: 007_LFeeler
+    100014: 008_EndLFeeler
+    100016: 009_LHand
+    100018: 010_EndLHand
+    100020: 011_LFingerA1
+    100022: 012_LFingerA2
+    100024: 013_EndLFingerA2
+    100026: 014_LFingerB1
+    100028: 015_LFingerB2
+    100030: 016_EndLFingerB2
+    100032: 017_LEar
+    100034: 018_EndLEar
+    100036: 019_LThigh
+    100038: 020_LLeg
+    100040: 021_LFoot
+    100042: 022_EndLFoot
+    100044: 023_LToe
+    100046: 024_EndLToe
+    100048: 025_Nose
+    100050: 026_EndNose
+    100052: 027_RArm
+    100054: 028_RForeArm
+    100056: 029_RFeeler
+    100058: 030_EndRFeeler
+    100060: 031_RHand
+    100062: 032_EndRHand
+    100064: 033_RFingerA1
+    100066: 034_RFingerA2
+    100068: 035_EndRFingerA2
+    100070: 036_RFingerB1
+    100072: 037_RFingerB2
+    100074: 038_EndRFingerB2
+    100076: 039_REar
+    100078: 040_EndREar
+    100080: 041_RThigh
+    100082: 042_RLeg
+    100084: 043_RFoot
+    100086: 044_EndRFoot
+    100088: 045_RToe
+    100090: 046_EndRToe
+    100092: 047_pm0057_00_Skin
+    100094: Primeape
+    100096: //RootNode
+    400000: 001_pm0057_00
+    400002: 002_Origin
+    400004: 003_Waist
+    400006: 004_EndWaist
+    400008: 005_LArm
+    400010: 006_LForeArm
+    400012: 007_LFeeler
+    400014: 008_EndLFeeler
+    400016: 009_LHand
+    400018: 010_EndLHand
+    400020: 011_LFingerA1
+    400022: 012_LFingerA2
+    400024: 013_EndLFingerA2
+    400026: 014_LFingerB1
+    400028: 015_LFingerB2
+    400030: 016_EndLFingerB2
+    400032: 017_LEar
+    400034: 018_EndLEar
+    400036: 019_LThigh
+    400038: 020_LLeg
+    400040: 021_LFoot
+    400042: 022_EndLFoot
+    400044: 023_LToe
+    400046: 024_EndLToe
+    400048: 025_Nose
+    400050: 026_EndNose
+    400052: 027_RArm
+    400054: 028_RForeArm
+    400056: 029_RFeeler
+    400058: 030_EndRFeeler
+    400060: 031_RHand
+    400062: 032_EndRHand
+    400064: 033_RFingerA1
+    400066: 034_RFingerA2
+    400068: 035_EndRFingerA2
+    400070: 036_RFingerB1
+    400072: 037_RFingerB2
+    400074: 038_EndRFingerB2
+    400076: 039_REar
+    400078: 040_EndREar
+    400080: 041_RThigh
+    400082: 042_RLeg
+    400084: 043_RFoot
+    400086: 044_EndRFoot
+    400088: 045_RToe
+    400090: 046_EndRToe
+    400092: 047_pm0057_00_Skin
+    400094: Primeape
+    400096: //RootNode
+    4300000: Primeape
+    9500000: //RootNode
+    13700000: Primeape
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

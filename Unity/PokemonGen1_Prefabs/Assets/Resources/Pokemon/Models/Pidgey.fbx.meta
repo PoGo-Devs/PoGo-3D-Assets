@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 2ee643605185c874296a337dd335d01a
+timeCreated: 1472638118
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001_pm0016_00
+    100002: 002_Origin
+    100004: 003_Waist
+    100006: 004_Hips
+    100008: 005_EndHips
+    100010: 006_LThigh
+    100012: 007_LLeg
+    100014: 008_LFoot
+    100016: 009_EndLFoot
+    100018: 010_LToeA1
+    100020: 011_LToeA2
+    100022: 012_EndLToeA2
+    100024: 013_LToeB1
+    100026: 014_LToeB2
+    100028: 015_EndLToeB2
+    100030: 016_LToeC1
+    100032: 017_LToeC2
+    100034: 018_EndLToeC2
+    100036: 019_RThigh
+    100038: 020_RLeg
+    100040: 021_RFoot
+    100042: 022_EndRFoot
+    100044: 023_RToeA1
+    100046: 024_RToeA2
+    100048: 025_EndRToeA2
+    100050: 026_RToeB1
+    100052: 027_RToeB2
+    100054: 028_EndRToeB2
+    100056: 029_RToeC1
+    100058: 030_RToeC2
+    100060: 031_EndRToeC2
+    100062: 032_Tail1
+    100064: 033_Tail2
+    100066: 034_EndTail2
+    100068: 035_Spine1
+    100070: 036_Spine2
+    100072: 037_Feeler
+    100074: 038_EndFeeler
+    100076: 039_Spine3
+    100078: 040_Head
+    100080: 041_EndHead
+    100082: 042_Hair
+    100084: 043_EndHair
+    100086: 044_LowerBeak
+    100088: 045_EndLowerBeak
+    100090: 046_LFeeler1
+    100092: 047_LFeeler2
+    100094: 048_EndLFeeler2
+    100096: 049_LShoulder
+    100098: 050_LArm
+    100100: 051_LForeArm
+    100102: 052_LHand
+    100104: 053_EndLHand
+    100106: 054_RFeeler1
+    100108: 055_RFeeler2
+    100110: 056_EndRFeeler2
+    100112: 057_RShoulder
+    100114: 058_RArm
+    100116: 059_RForeArm
+    100118: 060_RHand
+    100120: 061_EndRHand
+    100122: 062_pm0016_00_BodySkin
+    100124: 063_pm0016_00_LWingCloseSkin
+    100126: 064_pm0016_00_RWingCloseSkin
+    100128: Pidgey
+    100130: //RootNode
+    400000: 001_pm0016_00
+    400002: 002_Origin
+    400004: 003_Waist
+    400006: 004_Hips
+    400008: 005_EndHips
+    400010: 006_LThigh
+    400012: 007_LLeg
+    400014: 008_LFoot
+    400016: 009_EndLFoot
+    400018: 010_LToeA1
+    400020: 011_LToeA2
+    400022: 012_EndLToeA2
+    400024: 013_LToeB1
+    400026: 014_LToeB2
+    400028: 015_EndLToeB2
+    400030: 016_LToeC1
+    400032: 017_LToeC2
+    400034: 018_EndLToeC2
+    400036: 019_RThigh
+    400038: 020_RLeg
+    400040: 021_RFoot
+    400042: 022_EndRFoot
+    400044: 023_RToeA1
+    400046: 024_RToeA2
+    400048: 025_EndRToeA2
+    400050: 026_RToeB1
+    400052: 027_RToeB2
+    400054: 028_EndRToeB2
+    400056: 029_RToeC1
+    400058: 030_RToeC2
+    400060: 031_EndRToeC2
+    400062: 032_Tail1
+    400064: 033_Tail2
+    400066: 034_EndTail2
+    400068: 035_Spine1
+    400070: 036_Spine2
+    400072: 037_Feeler
+    400074: 038_EndFeeler
+    400076: 039_Spine3
+    400078: 040_Head
+    400080: 041_EndHead
+    400082: 042_Hair
+    400084: 043_EndHair
+    400086: 044_LowerBeak
+    400088: 045_EndLowerBeak
+    400090: 046_LFeeler1
+    400092: 047_LFeeler2
+    400094: 048_EndLFeeler2
+    400096: 049_LShoulder
+    400098: 050_LArm
+    400100: 051_LForeArm
+    400102: 052_LHand
+    400104: 053_EndLHand
+    400106: 054_RFeeler1
+    400108: 055_RFeeler2
+    400110: 056_EndRFeeler2
+    400112: 057_RShoulder
+    400114: 058_RArm
+    400116: 059_RForeArm
+    400118: 060_RHand
+    400120: 061_EndRHand
+    400122: 062_pm0016_00_BodySkin
+    400124: 063_pm0016_00_LWingCloseSkin
+    400126: 064_pm0016_00_RWingCloseSkin
+    400128: Pidgey
+    400130: //RootNode
+    4300000: Pidgey
+    9500000: //RootNode
+    13700000: Pidgey
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

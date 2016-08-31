@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: d33a6af54cace33458ae599c19d6bef5
+timeCreated: 1472639939
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHair
+    100002: EndLFeelerA2
+    100004: EndLFeelerB2
+    100006: EndLFeelerC2
+    100008: EndLFeelerD2
+    100010: EndLHand
+    100012: EndRFeelerA2
+    100014: EndRFeelerB2
+    100016: EndRFeelerC2
+    100018: EndRFeelerD2
+    100020: EndRHand
+    100022: EndWaist
+    100024: Hair
+    100026: LArm
+    100028: LFeelerA1
+    100030: LFeelerA2
+    100032: LFeelerB1
+    100034: LFeelerB2
+    100036: LFeelerC1
+    100038: LFeelerC2
+    100040: LFeelerD1
+    100042: LFeelerD2
+    100044: LForeArm
+    100046: LHand
+    100048: //RootNode
+    100050: Omanyte
+    100052: Origin
+    100054: pm0138_00
+    100056: pm0138_00_Skin
+    100058: RArm
+    100060: RFeelerA1
+    100062: RFeelerA2
+    100064: RFeelerB1
+    100066: RFeelerB2
+    100068: RFeelerC1
+    100070: RFeelerC2
+    100072: RFeelerD1
+    100074: RFeelerD2
+    100076: RForeArm
+    100078: RHand
+    100080: Waist
+    400000: EndHair
+    400002: EndLFeelerA2
+    400004: EndLFeelerB2
+    400006: EndLFeelerC2
+    400008: EndLFeelerD2
+    400010: EndLHand
+    400012: EndRFeelerA2
+    400014: EndRFeelerB2
+    400016: EndRFeelerC2
+    400018: EndRFeelerD2
+    400020: EndRHand
+    400022: EndWaist
+    400024: Hair
+    400026: LArm
+    400028: LFeelerA1
+    400030: LFeelerA2
+    400032: LFeelerB1
+    400034: LFeelerB2
+    400036: LFeelerC1
+    400038: LFeelerC2
+    400040: LFeelerD1
+    400042: LFeelerD2
+    400044: LForeArm
+    400046: LHand
+    400048: Omanyte
+    400050: //RootNode
+    400052: Origin
+    400054: pm0138_00
+    400056: pm0138_00_Skin
+    400058: RArm
+    400060: RFeelerA1
+    400062: RFeelerA2
+    400064: RFeelerB1
+    400066: RFeelerB2
+    400068: RFeelerC1
+    400070: RFeelerC2
+    400072: RFeelerD1
+    400074: RFeelerD2
+    400076: RForeArm
+    400078: RHand
+    400080: Waist
+    4300000: Omanyte
+    9500000: //RootNode
+    13700000: Omanyte
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: abd9110f7ee818b4f87132753218bbe9
+timeCreated: 1472639925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndFeelerA
+    100002: EndFeelerB
+    100004: EndHips
+    100006: EndLEar2
+    100008: EndLFoot
+    100010: EndLHand
+    100012: EndLTail
+    100014: EndLToe
+    100016: EndREar2
+    100018: EndRFoot
+    100020: EndRHand
+    100022: EndRTail
+    100024: EndRToe
+    100026: EndTail8
+    100028: FeelerA
+    100030: FeelerB
+    100032: Head
+    100034: Hips
+    100036: LArm
+    100038: LEar1
+    100040: LEar2
+    100042: LFoot
+    100044: LForeArm
+    100046: LHand
+    100048: LLeg
+    100050: LShoulder
+    100052: LTail
+    100054: LThigh
+    100056: LToe
+    100058: Neck
+    100060: Origin
+    100062: pm0134_00
+    100064: pm0134_00_BodySkin
+    100066: RArm
+    100068: REar1
+    100070: REar2
+    100072: RFoot
+    100074: RForeArm
+    100076: RHand
+    100078: RLeg
+    100080: RShoulder
+    100082: RTail
+    100084: RThigh
+    100086: RToe
+    100088: Spine1
+    100090: Spine2
+    100092: Tail1
+    100094: Tail2
+    100096: Tail3
+    100098: Tail4
+    100100: Tail5
+    100102: Tail6
+    100104: Tail7
+    100106: Tail8
+    100108: Vaporeon
+    100110: //RootNode
+    100112: Waist
+    400000: EndFeelerA
+    400002: EndFeelerB
+    400004: EndHips
+    400006: EndLEar2
+    400008: EndLFoot
+    400010: EndLHand
+    400012: EndLTail
+    400014: EndLToe
+    400016: EndREar2
+    400018: EndRFoot
+    400020: EndRHand
+    400022: EndRTail
+    400024: EndRToe
+    400026: EndTail8
+    400028: FeelerA
+    400030: FeelerB
+    400032: Head
+    400034: Hips
+    400036: LArm
+    400038: LEar1
+    400040: LEar2
+    400042: LFoot
+    400044: LForeArm
+    400046: LHand
+    400048: LLeg
+    400050: LShoulder
+    400052: LTail
+    400054: LThigh
+    400056: LToe
+    400058: Neck
+    400060: Origin
+    400062: pm0134_00
+    400064: pm0134_00_BodySkin
+    400066: RArm
+    400068: REar1
+    400070: REar2
+    400072: RFoot
+    400074: RForeArm
+    400076: RHand
+    400078: RLeg
+    400080: RShoulder
+    400082: RTail
+    400084: RThigh
+    400086: RToe
+    400088: Spine1
+    400090: Spine2
+    400092: Tail1
+    400094: Tail2
+    400096: Tail3
+    400098: Tail4
+    400100: Tail5
+    400102: Tail6
+    400104: Tail7
+    400106: Tail8
+    400108: Vaporeon
+    400110: //RootNode
+    400112: Waist
+    4300000: Vaporeon
+    9500000: //RootNode
+    13700000: Vaporeon
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

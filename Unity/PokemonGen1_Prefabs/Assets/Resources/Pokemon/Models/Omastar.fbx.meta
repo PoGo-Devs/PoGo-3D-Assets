@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 097fafaa971538049970943a98fbe978
+timeCreated: 1472639943
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHair
+    100002: EndLFeelerA
+    100004: EndLFeelerB4
+    100006: EndLFoot
+    100008: EndLHand
+    100010: EndLHand2
+    100012: EndLHand3
+    100014: EndLLowerJaw
+    100016: EndLUpperJaw
+    100018: EndRFeelerA
+    100020: EndRFeelerB4
+    100022: EndRFoot
+    100024: EndRHand
+    100026: EndRHand2
+    100028: EndRHand3
+    100030: EndRLowerJaw
+    100032: EndRUpperJaw
+    100034: EndWaist
+    100036: Hair
+    100038: LArm
+    100040: LArm2
+    100042: LArm3
+    100044: LFeelerA
+    100046: LFeelerB1
+    100048: LFeelerB2
+    100050: LFeelerB3
+    100052: LFeelerB4
+    100054: LFoot
+    100056: LForeArm
+    100058: LForeArm2
+    100060: LForeArm3
+    100062: LHand
+    100064: LHand2
+    100066: LHand3
+    100068: LLeg
+    100070: LLowerJaw
+    100072: LShoulder2
+    100074: LThigh
+    100076: LUpperJaw
+    100078: //RootNode
+    100080: Omastar
+    100082: Origin
+    100084: pm0139_00
+    100086: pm0139_00_Skin
+    100088: RArm
+    100090: RArm2
+    100092: RArm3
+    100094: RFeelerA
+    100096: RFeelerB1
+    100098: RFeelerB2
+    100100: RFeelerB3
+    100102: RFeelerB4
+    100104: RFoot
+    100106: RForeArm
+    100108: RForeArm2
+    100110: RForeArm3
+    100112: RHand
+    100114: RHand2
+    100116: RHand3
+    100118: RLeg
+    100120: RLowerJaw
+    100122: RShoulder2
+    100124: RThigh
+    100126: RUpperJaw
+    100128: Waist
+    400000: EndHair
+    400002: EndLFeelerA
+    400004: EndLFeelerB4
+    400006: EndLFoot
+    400008: EndLHand
+    400010: EndLHand2
+    400012: EndLHand3
+    400014: EndLLowerJaw
+    400016: EndLUpperJaw
+    400018: EndRFeelerA
+    400020: EndRFeelerB4
+    400022: EndRFoot
+    400024: EndRHand
+    400026: EndRHand2
+    400028: EndRHand3
+    400030: EndRLowerJaw
+    400032: EndRUpperJaw
+    400034: EndWaist
+    400036: Hair
+    400038: LArm
+    400040: LArm2
+    400042: LArm3
+    400044: LFeelerA
+    400046: LFeelerB1
+    400048: LFeelerB2
+    400050: LFeelerB3
+    400052: LFeelerB4
+    400054: LFoot
+    400056: LForeArm
+    400058: LForeArm2
+    400060: LForeArm3
+    400062: LHand
+    400064: LHand2
+    400066: LHand3
+    400068: LLeg
+    400070: LLowerJaw
+    400072: LShoulder2
+    400074: LThigh
+    400076: LUpperJaw
+    400078: Omastar
+    400080: //RootNode
+    400082: Origin
+    400084: pm0139_00
+    400086: pm0139_00_Skin
+    400088: RArm
+    400090: RArm2
+    400092: RArm3
+    400094: RFeelerA
+    400096: RFeelerB1
+    400098: RFeelerB2
+    400100: RFeelerB3
+    400102: RFeelerB4
+    400104: RFoot
+    400106: RForeArm
+    400108: RForeArm2
+    400110: RForeArm3
+    400112: RHand
+    400114: RHand2
+    400116: RHand3
+    400118: RLeg
+    400120: RLowerJaw
+    400122: RShoulder2
+    400124: RThigh
+    400126: RUpperJaw
+    400128: Waist
+    4300000: Omastar
+    9500000: //RootNode
+    13700000: Omastar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

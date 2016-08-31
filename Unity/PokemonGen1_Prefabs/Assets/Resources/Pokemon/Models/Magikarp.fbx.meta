@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 416bd2676a414184f83f640b3ac14cd8
+timeCreated: 1472639903
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndFeelerA
+    100002: EndFeelerB
+    100004: EndHead
+    100006: EndLFeeler5
+    100008: EndLForeArm
+    100010: EndLowerBeak
+    100012: EndRFeeler5
+    100014: EndRForeArm
+    100016: EndTail3
+    100018: EndUpperBeak
+    100020: FeelerA
+    100022: FeelerB
+    100024: Head
+    100026: Hips
+    100028: LArm
+    100030: LFeeler1
+    100032: LFeeler2
+    100034: LFeeler3
+    100036: LFeeler4
+    100038: LFeeler5
+    100040: LForeArm
+    100042: LowerBeak
+    100044: //RootNode
+    100046: MagikarpF
+    100048: Origin
+    100050: pm0129_00_BodySkin
+    100052: pm0129_00_koiking
+    100054: pm0129_00_WhiskerSkin
+    100056: pm0129_01_WhiskerSkin
+    100058: RArm
+    100060: RFeeler1
+    100062: RFeeler2
+    100064: RFeeler3
+    100066: RFeeler4
+    100068: RFeeler5
+    100070: RForeArm
+    100072: Tail1
+    100074: Tail2
+    100076: Tail3
+    100078: UpperBeak
+    100080: VriVis00
+    100082: VriVis01
+    100084: Waist
+    400000: EndFeelerA
+    400002: EndFeelerB
+    400004: EndHead
+    400006: EndLFeeler5
+    400008: EndLForeArm
+    400010: EndLowerBeak
+    400012: EndRFeeler5
+    400014: EndRForeArm
+    400016: EndTail3
+    400018: EndUpperBeak
+    400020: FeelerA
+    400022: FeelerB
+    400024: Head
+    400026: Hips
+    400028: LArm
+    400030: LFeeler1
+    400032: LFeeler2
+    400034: LFeeler3
+    400036: LFeeler4
+    400038: LFeeler5
+    400040: LForeArm
+    400042: LowerBeak
+    400044: //RootNode
+    400046: MagikarpF
+    400048: Origin
+    400050: pm0129_00_BodySkin
+    400052: pm0129_00_koiking
+    400054: pm0129_00_WhiskerSkin
+    400056: pm0129_01_WhiskerSkin
+    400058: RArm
+    400060: RFeeler1
+    400062: RFeeler2
+    400064: RFeeler3
+    400066: RFeeler4
+    400068: RFeeler5
+    400070: RForeArm
+    400072: Tail1
+    400074: Tail2
+    400076: Tail3
+    400078: UpperBeak
+    400080: VriVis00
+    400082: VriVis01
+    400084: Waist
+    4300000: MagikarpF
+    9500000: //RootNode
+    13700000: MagikarpF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 5e6e02ecf2c1132478ea484ad31c17a1
+timeCreated: 1472638459
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001_pm0071_00
+    100002: 002_Origin
+    100004: 003_Waist
+    100006: 004_Hips
+    100008: 005_EndHips
+    100010: 006_LThigh
+    100012: 007_LLeg
+    100014: 008_LFoot
+    100016: 009_LToe
+    100018: 010_EndLToe
+    100020: 011_RThigh
+    100022: 012_RLeg
+    100024: 013_RFoot
+    100026: 014_RToe
+    100028: 015_EndRToe
+    100030: 016_Spine1
+    100032: 017_Spine2
+    100034: 018_Head
+    100036: 019_EndHead
+    100038: 020_FeelerA
+    100040: 021_EndFeelerA
+    100042: 022_Feeler1
+    100044: 023_Feeler2
+    100046: 024_EndFeeler2
+    100048: 025_LFeeler
+    100050: 026_EndLFeeler
+    100052: 027_RFeeler
+    100054: 028_EndRFeeler
+    100056: 029_Tail01
+    100058: 030_Tail02
+    100060: 031_Tail03
+    100062: 032_Tail04
+    100064: 033_Tail05
+    100066: 034_Tail06
+    100068: 035_Tail07
+    100070: 036_Tail08
+    100072: 037_Tail09
+    100074: 038_Tail10
+    100076: 039_Tail11
+    100078: 040_Tail12
+    100080: 041_EndTail12
+    100082: 042_RootJaw
+    100084: 043_EndRootJaw
+    100086: 044_JawD
+    100088: 045_EndJawD
+    100090: 046_JawE
+    100092: 047_EndJawE
+    100094: 048_LJawA
+    100096: 049_EndLJawA
+    100098: 050_LJawB
+    100100: 051_EndLJawB
+    100102: 052_LJawC
+    100104: 053_EndLJawC
+    100106: 054_LTeeth
+    100108: 055_EndLTeeth
+    100110: 056_RJawA
+    100112: 057_EndRJawA
+    100114: 058_RJawB
+    100116: 059_EndRJawB
+    100118: 060_RJawC
+    100120: 061_EndRJawC
+    100122: 062_RTeeth
+    100124: 063_EndRTeeth
+    100126: 064_pm0071_00_Skin
+    100128: Victreebel
+    100130: //RootNode
+    400000: 001_pm0071_00
+    400002: 002_Origin
+    400004: 003_Waist
+    400006: 004_Hips
+    400008: 005_EndHips
+    400010: 006_LThigh
+    400012: 007_LLeg
+    400014: 008_LFoot
+    400016: 009_LToe
+    400018: 010_EndLToe
+    400020: 011_RThigh
+    400022: 012_RLeg
+    400024: 013_RFoot
+    400026: 014_RToe
+    400028: 015_EndRToe
+    400030: 016_Spine1
+    400032: 017_Spine2
+    400034: 018_Head
+    400036: 019_EndHead
+    400038: 020_FeelerA
+    400040: 021_EndFeelerA
+    400042: 022_Feeler1
+    400044: 023_Feeler2
+    400046: 024_EndFeeler2
+    400048: 025_LFeeler
+    400050: 026_EndLFeeler
+    400052: 027_RFeeler
+    400054: 028_EndRFeeler
+    400056: 029_Tail01
+    400058: 030_Tail02
+    400060: 031_Tail03
+    400062: 032_Tail04
+    400064: 033_Tail05
+    400066: 034_Tail06
+    400068: 035_Tail07
+    400070: 036_Tail08
+    400072: 037_Tail09
+    400074: 038_Tail10
+    400076: 039_Tail11
+    400078: 040_Tail12
+    400080: 041_EndTail12
+    400082: 042_RootJaw
+    400084: 043_EndRootJaw
+    400086: 044_JawD
+    400088: 045_EndJawD
+    400090: 046_JawE
+    400092: 047_EndJawE
+    400094: 048_LJawA
+    400096: 049_EndLJawA
+    400098: 050_LJawB
+    400100: 051_EndLJawB
+    400102: 052_LJawC
+    400104: 053_EndLJawC
+    400106: 054_LTeeth
+    400108: 055_EndLTeeth
+    400110: 056_RJawA
+    400112: 057_EndRJawA
+    400114: 058_RJawB
+    400116: 059_EndRJawB
+    400118: 060_RJawC
+    400120: 061_EndRJawC
+    400122: 062_RTeeth
+    400124: 063_EndRTeeth
+    400126: 064_pm0071_00_Skin
+    400128: Victreebel
+    400130: //RootNode
+    4300000: Victreebel
+    9500000: //RootNode
+    13700000: Victreebel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

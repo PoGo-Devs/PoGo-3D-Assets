@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: de893cda45a98774ea969edddab3d526
+timeCreated: 1472638081
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHead
+    100002: EndJaw
+    100004: EndLFingerA
+    100006: EndLFingerB
+    100008: EndLFingerC
+    100010: EndLFoot
+    100012: EndLHand
+    100014: EndLToe
+    100016: EndRFingerA
+    100018: EndRFingerB
+    100020: EndRFingerC
+    100022: EndRFoot
+    100024: EndRHand
+    100026: EndRToe
+    100028: EndTail3
+    100030: EndWaist
+    100032: Head
+    100034: Jaw
+    100036: LArm
+    100038: LFingerA
+    100040: LFingerB
+    100042: LFingerC
+    100044: LFoot
+    100046: LForeArm
+    100048: LHand
+    100050: LLeg
+    100052: LThigh
+    100054: LToe
+    100056: Origin
+    100058: pm0007_00
+    100060: pm0007_00_BodySkin
+    100062: pm0007_00_ShellSkin
+    100064: RArm
+    100066: RFingerA
+    100068: RFingerB
+    100070: RFingerC
+    100072: RFoot
+    100074: RForeArm
+    100076: RHand
+    100078: RLeg
+    100080: RThigh
+    100082: RToe
+    100084: //RootNode
+    100086: Squirtle
+    100088: Tail1
+    100090: Tail2
+    100092: Tail3
+    100094: Waist
+    400000: EndHead
+    400002: EndJaw
+    400004: EndLFingerA
+    400006: EndLFingerB
+    400008: EndLFingerC
+    400010: EndLFoot
+    400012: EndLHand
+    400014: EndLToe
+    400016: EndRFingerA
+    400018: EndRFingerB
+    400020: EndRFingerC
+    400022: EndRFoot
+    400024: EndRHand
+    400026: EndRToe
+    400028: EndTail3
+    400030: EndWaist
+    400032: Head
+    400034: Jaw
+    400036: LArm
+    400038: LFingerA
+    400040: LFingerB
+    400042: LFingerC
+    400044: LFoot
+    400046: LForeArm
+    400048: LHand
+    400050: LLeg
+    400052: LThigh
+    400054: LToe
+    400056: Origin
+    400058: pm0007_00
+    400060: pm0007_00_BodySkin
+    400062: pm0007_00_ShellSkin
+    400064: RArm
+    400066: RFingerA
+    400068: RFingerB
+    400070: RFingerC
+    400072: RFoot
+    400074: RForeArm
+    400076: RHand
+    400078: RLeg
+    400080: RThigh
+    400082: RToe
+    400084: //RootNode
+    400086: Squirtle
+    400088: Tail1
+    400090: Tail2
+    400092: Tail3
+    400094: Waist
+    4300000: Squirtle
+    9500000: //RootNode
+    13700000: Squirtle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

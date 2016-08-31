@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: b5de875aa84f43441aa6c5ca684d0cc8
+timeCreated: 1472639921
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Eevee
+    100004: EndFeelerA2
+    100006: EndFeelerB2
+    100008: EndHair
+    100010: EndHips
+    100012: EndLEar2
+    100014: EndLFeeler2
+    100016: EndLFoot
+    100018: EndLHand
+    100020: EndLToe
+    100022: EndREar2
+    100024: EndRFeeler2
+    100026: EndRFoot
+    100028: EndRHand
+    100030: EndRToe
+    100032: EndTail3
+    100034: FeelerA1
+    100036: FeelerA2
+    100038: FeelerB1
+    100040: FeelerB2
+    100042: Hair
+    100044: Head
+    100046: Hips
+    100048: LArm
+    100050: LEar1
+    100052: LEar2
+    100054: LFeeler1
+    100056: LFeeler2
+    100058: LFoot
+    100060: LForeArm
+    100062: LHand
+    100064: LLeg
+    100066: LShoulder
+    100068: LThigh
+    100070: LToe
+    100072: Neck
+    100074: Origin
+    100076: pm0133_00
+    100078: pm0133_00_Skin
+    100080: RArm
+    100082: REar1
+    100084: REar2
+    100086: RFeeler1
+    100088: RFeeler2
+    100090: RFoot
+    100092: RForeArm
+    100094: RHand
+    100096: RLeg
+    100098: RShoulder
+    100100: RThigh
+    100102: RToe
+    100104: Spine1
+    100106: Spine2
+    100108: Tail1
+    100110: Tail2
+    100112: Tail3
+    100114: Waist
+    400000: Eevee
+    400002: //RootNode
+    400004: EndFeelerA2
+    400006: EndFeelerB2
+    400008: EndHair
+    400010: EndHips
+    400012: EndLEar2
+    400014: EndLFeeler2
+    400016: EndLFoot
+    400018: EndLHand
+    400020: EndLToe
+    400022: EndREar2
+    400024: EndRFeeler2
+    400026: EndRFoot
+    400028: EndRHand
+    400030: EndRToe
+    400032: EndTail3
+    400034: FeelerA1
+    400036: FeelerA2
+    400038: FeelerB1
+    400040: FeelerB2
+    400042: Hair
+    400044: Head
+    400046: Hips
+    400048: LArm
+    400050: LEar1
+    400052: LEar2
+    400054: LFeeler1
+    400056: LFeeler2
+    400058: LFoot
+    400060: LForeArm
+    400062: LHand
+    400064: LLeg
+    400066: LShoulder
+    400068: LThigh
+    400070: LToe
+    400072: Neck
+    400074: Origin
+    400076: pm0133_00
+    400078: pm0133_00_Skin
+    400080: RArm
+    400082: REar1
+    400084: REar2
+    400086: RFeeler1
+    400088: RFeeler2
+    400090: RFoot
+    400092: RForeArm
+    400094: RHand
+    400096: RLeg
+    400098: RShoulder
+    400100: RThigh
+    400102: RToe
+    400104: Spine1
+    400106: Spine2
+    400108: Tail1
+    400110: Tail2
+    400112: Tail3
+    400114: Waist
+    4300000: Eevee
+    9500000: //RootNode
+    13700000: Eevee
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

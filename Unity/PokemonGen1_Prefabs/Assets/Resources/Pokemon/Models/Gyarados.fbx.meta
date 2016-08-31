@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: eb1418129a02cd5438821a43aa7636b6
+timeCreated: 1472639907
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndFeelerB
+    100002: EndFeelerC
+    100004: EndFeelerD
+    100006: EndFeelerE
+    100008: EndHead
+    100010: EndLEar
+    100012: EndLFeelerA6
+    100014: EndLowerBeak
+    100016: EndREar
+    100018: EndRFeelerA6
+    100020: EndTail9
+    100022: EndTeeth
+    100024: EndTongue2
+    100026: FeelerB
+    100028: FeelerC
+    100030: FeelerD
+    100032: FeelerE
+    100034: //RootNode
+    100036: GyaradosF
+    100038: Head
+    100040: Hips
+    100042: LEar
+    100044: LFeelerA1
+    100046: LFeelerA2
+    100048: LFeelerA3
+    100050: LFeelerA4
+    100052: LFeelerA5
+    100054: LFeelerA6
+    100056: LowerBeak
+    100058: Neck
+    100060: Origin
+    100062: pm0130_00_BodySkin
+    100064: pm0130_00_gyarados
+    100066: pm0130_00_IrisSkin
+    100068: pm0130_00_MustacheSkin
+    100070: pm0130_01_MustacheSkin
+    100072: REar
+    100074: RFeelerA1
+    100076: RFeelerA2
+    100078: RFeelerA3
+    100080: RFeelerA4
+    100082: RFeelerA5
+    100084: RFeelerA6
+    100086: Spine1
+    100088: Spine2
+    100090: Spine3
+    100092: Spine4
+    100094: Spine5
+    100096: Tail1
+    100098: Tail2
+    100100: Tail3
+    100102: Tail4
+    100104: Tail5
+    100106: Tail6
+    100108: Tail7
+    100110: Tail8
+    100112: Tail9
+    100114: Teeth
+    100116: Tongue1
+    100118: Tongue2
+    100120: UpperBeak
+    100122: VriVis00
+    100124: VriVis01
+    100126: Waist
+    400000: EndFeelerB
+    400002: EndFeelerC
+    400004: EndFeelerD
+    400006: EndFeelerE
+    400008: EndHead
+    400010: EndLEar
+    400012: EndLFeelerA6
+    400014: EndLowerBeak
+    400016: EndREar
+    400018: EndRFeelerA6
+    400020: EndTail9
+    400022: EndTeeth
+    400024: EndTongue2
+    400026: FeelerB
+    400028: FeelerC
+    400030: FeelerD
+    400032: FeelerE
+    400034: //RootNode
+    400036: GyaradosF
+    400038: Head
+    400040: Hips
+    400042: LEar
+    400044: LFeelerA1
+    400046: LFeelerA2
+    400048: LFeelerA3
+    400050: LFeelerA4
+    400052: LFeelerA5
+    400054: LFeelerA6
+    400056: LowerBeak
+    400058: Neck
+    400060: Origin
+    400062: pm0130_00_BodySkin
+    400064: pm0130_00_gyarados
+    400066: pm0130_00_IrisSkin
+    400068: pm0130_00_MustacheSkin
+    400070: pm0130_01_MustacheSkin
+    400072: REar
+    400074: RFeelerA1
+    400076: RFeelerA2
+    400078: RFeelerA3
+    400080: RFeelerA4
+    400082: RFeelerA5
+    400084: RFeelerA6
+    400086: Spine1
+    400088: Spine2
+    400090: Spine3
+    400092: Spine4
+    400094: Spine5
+    400096: Tail1
+    400098: Tail2
+    400100: Tail3
+    400102: Tail4
+    400104: Tail5
+    400106: Tail6
+    400108: Tail7
+    400110: Tail8
+    400112: Tail9
+    400114: Teeth
+    400116: Tongue1
+    400118: Tongue2
+    400120: UpperBeak
+    400122: VriVis00
+    400124: VriVis01
+    400126: Waist
+    4300000: GyaradosF
+    9500000: //RootNode
+    13700000: GyaradosF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

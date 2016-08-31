@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 5406060853b4b0f4da4f5edabf7791f1
+timeCreated: 1472640001
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHead
+    100002: EndHips
+    100004: EndLEar
+    100006: EndLFoot
+    100008: EndLHand
+    100010: EndLToe
+    100012: EndREar
+    100014: EndRFoot
+    100016: EndRHand
+    100018: EndRToe
+    100020: EndTail7
+    100022: Head
+    100024: Hips
+    100026: LArm
+    100028: LEar
+    100030: LFoot
+    100032: LForeArm
+    100034: LHand
+    100036: LLeg
+    100038: LThigh
+    100040: LToe
+    100042: //RootNode
+    100044: Mew
+    100046: Neck
+    100048: Origin
+    100050: pm0151_00
+    100052: pm0151_00_BodySkin
+    100054: pm0151_00_IrisSkin
+    100056: RArm
+    100058: REar
+    100060: RFoot
+    100062: RForeArm
+    100064: RHand
+    100066: RLeg
+    100068: RThigh
+    100070: RToe
+    100072: Spine1
+    100074: Spine2
+    100076: Tail1
+    100078: Tail2
+    100080: Tail3
+    100082: Tail4
+    100084: Tail5
+    100086: Tail6
+    100088: Tail7
+    100090: Waist
+    400000: EndHead
+    400002: EndHips
+    400004: EndLEar
+    400006: EndLFoot
+    400008: EndLHand
+    400010: EndLToe
+    400012: EndREar
+    400014: EndRFoot
+    400016: EndRHand
+    400018: EndRToe
+    400020: EndTail7
+    400022: Head
+    400024: Hips
+    400026: LArm
+    400028: LEar
+    400030: LFoot
+    400032: LForeArm
+    400034: LHand
+    400036: LLeg
+    400038: LThigh
+    400040: LToe
+    400042: Mew
+    400044: //RootNode
+    400046: Neck
+    400048: Origin
+    400050: pm0151_00
+    400052: pm0151_00_BodySkin
+    400054: pm0151_00_IrisSkin
+    400056: RArm
+    400058: REar
+    400060: RFoot
+    400062: RForeArm
+    400064: RHand
+    400066: RLeg
+    400068: RThigh
+    400070: RToe
+    400072: Spine1
+    400074: Spine2
+    400076: Tail1
+    400078: Tail2
+    400080: Tail3
+    400082: Tail4
+    400084: Tail5
+    400086: Tail6
+    400088: Tail7
+    400090: Waist
+    4300000: Mew
+    9500000: //RootNode
+    13700000: Mew
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: ca0b880b6bd06a9409c52812d32a8145
+timeCreated: 1472638094
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Caterpie
+    100004: EndFeelerA2
+    100006: EndFeelerB2
+    100008: EndHead
+    100010: EndLFeelerA
+    100012: EndLFeelerB
+    100014: EndNose
+    100016: EndRFeelerA
+    100018: EndRFeelerB
+    100020: EndTail3
+    100022: FeelerA1
+    100024: FeelerA2
+    100026: FeelerB1
+    100028: FeelerB2
+    100030: Head
+    100032: Hips
+    100034: LFeelerA
+    100036: LFeelerB
+    100038: Nose
+    100040: Origin
+    100042: pm0010_00
+    100044: pm0010_00_BodySkin
+    100046: RFeelerA
+    100048: RFeelerB
+    100050: Spine1
+    100052: Spine2
+    100054: Tail1
+    100056: Tail2
+    100058: Tail3
+    100060: Waist
+    400000: Caterpie
+    400002: //RootNode
+    400004: EndFeelerA2
+    400006: EndFeelerB2
+    400008: EndHead
+    400010: EndLFeelerA
+    400012: EndLFeelerB
+    400014: EndNose
+    400016: EndRFeelerA
+    400018: EndRFeelerB
+    400020: EndTail3
+    400022: FeelerA1
+    400024: FeelerA2
+    400026: FeelerB1
+    400028: FeelerB2
+    400030: Head
+    400032: Hips
+    400034: LFeelerA
+    400036: LFeelerB
+    400038: Nose
+    400040: Origin
+    400042: pm0010_00
+    400044: pm0010_00_BodySkin
+    400046: RFeelerA
+    400048: RFeelerB
+    400050: Spine1
+    400052: Spine2
+    400054: Tail1
+    400056: Tail2
+    400058: Tail3
+    400060: Waist
+    4300000: Caterpie
+    9500000: //RootNode
+    13700000: Caterpie
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

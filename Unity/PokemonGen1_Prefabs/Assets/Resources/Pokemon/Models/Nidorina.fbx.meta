@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: fdc401c681c9ce94ab25265f3d097a99
+timeCreated: 1472638282
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndHead
+    100002: EndHips
+    100004: EndJaw
+    100006: EndLEar2
+    100008: EndLFingerA
+    100010: EndLFingerB
+    100012: EndLFingerC
+    100014: EndLHand
+    100016: EndLToe
+    100018: EndREar2
+    100020: EndRFingerA
+    100022: EndRFingerB
+    100024: EndRFingerC
+    100026: EndRHand
+    100028: EndRToe
+    100030: EndTail3
+    100032: Head
+    100034: Hips
+    100036: Jaw
+    100038: LArm
+    100040: LEar1
+    100042: LEar2
+    100044: LFingerA
+    100046: LFingerB
+    100048: LFingerC
+    100050: LFoot
+    100052: LForeArm
+    100054: LHand
+    100056: LLeg
+    100058: LShoulder
+    100060: LThigh
+    100062: LToe
+    100064: Neck
+    100066: //RootNode
+    100068: Nidorina
+    100070: Origin
+    100072: pm0030_00
+    100074: pm0030_00_BodySkin
+    100076: pm0030_00_IrisSkin
+    100078: RArm
+    100080: REar1
+    100082: REar2
+    100084: RFingerA
+    100086: RFingerB
+    100088: RFingerC
+    100090: RFoot
+    100092: RForeArm
+    100094: RHand
+    100096: RLeg
+    100098: RShoulder
+    100100: RThigh
+    100102: RToe
+    100104: Spine
+    100106: Tail1
+    100108: Tail2
+    100110: Tail3
+    100112: Waist
+    400000: EndHead
+    400002: EndHips
+    400004: EndJaw
+    400006: EndLEar2
+    400008: EndLFingerA
+    400010: EndLFingerB
+    400012: EndLFingerC
+    400014: EndLHand
+    400016: EndLToe
+    400018: EndREar2
+    400020: EndRFingerA
+    400022: EndRFingerB
+    400024: EndRFingerC
+    400026: EndRHand
+    400028: EndRToe
+    400030: EndTail3
+    400032: Head
+    400034: Hips
+    400036: Jaw
+    400038: LArm
+    400040: LEar1
+    400042: LEar2
+    400044: LFingerA
+    400046: LFingerB
+    400048: LFingerC
+    400050: LFoot
+    400052: LForeArm
+    400054: LHand
+    400056: LLeg
+    400058: LShoulder
+    400060: LThigh
+    400062: LToe
+    400064: Neck
+    400066: Nidorina
+    400068: //RootNode
+    400070: Origin
+    400072: pm0030_00
+    400074: pm0030_00_BodySkin
+    400076: pm0030_00_IrisSkin
+    400078: RArm
+    400080: REar1
+    400082: REar2
+    400084: RFingerA
+    400086: RFingerB
+    400088: RFingerC
+    400090: RFoot
+    400092: RForeArm
+    400094: RHand
+    400096: RLeg
+    400098: RShoulder
+    400100: RThigh
+    400102: RToe
+    400104: Spine
+    400106: Tail1
+    400108: Tail2
+    400110: Tail3
+    400112: Waist
+    4300000: Nidorina
+    9500000: //RootNode
+    13700000: Nidorina
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

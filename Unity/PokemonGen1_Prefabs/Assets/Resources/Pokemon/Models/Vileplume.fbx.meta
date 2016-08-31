@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: a8ba3b8717c4e2d42a6b67dd3559f3a7
+timeCreated: 1472638353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001_pm0045_00_ruffresia
+    100002: 002_Origin
+    100004: 003_Waist
+    100006: 004_Hips
+    100008: 005_EndHips
+    100010: 006_LLeg
+    100012: 007_LFoot
+    100014: 008_LToe
+    100016: 009_EndLToe
+    100018: 010_LShoulder
+    100020: 011_LArm
+    100022: 012_EndLArm
+    100024: 013_RLeg
+    100026: 014_RFoot
+    100028: 015_RToe
+    100030: 016_EndRToe
+    100032: 017_RShoulder
+    100034: 018_RArm
+    100036: 019_EndRArm
+    100038: 020_Spine
+    100040: 021_Head
+    100042: 022_FeelerF1
+    100044: 023_FeelerA1
+    100046: 024_FeelerA2
+    100048: 025_EndFeelerA2
+    100050: 026_FeelerB1
+    100052: 027_FeelerB2
+    100054: 028_EndFeelerB2
+    100056: 029_FeelerC1
+    100058: 030_FeelerC2
+    100060: 031_EndFeelerC2
+    100062: 032_FeelerD1
+    100064: 033_FeelerD2
+    100066: 034_EndFeelerD2
+    100068: 035_FeelerE1
+    100070: 036_FeelerE2
+    100072: 037_EndFeelerE2
+    100074: 038_FeelerF2
+    100076: 039_EndFeelerF2
+    100078: 040_VriTex00
+    100080: 041_pm0045_00_BodySkin
+    100082: 042_pm0045_00_PetalSkin
+    100084: Vileplume
+    100086: //RootNode
+    400000: 001_pm0045_00_ruffresia
+    400002: 002_Origin
+    400004: 003_Waist
+    400006: 004_Hips
+    400008: 005_EndHips
+    400010: 006_LLeg
+    400012: 007_LFoot
+    400014: 008_LToe
+    400016: 009_EndLToe
+    400018: 010_LShoulder
+    400020: 011_LArm
+    400022: 012_EndLArm
+    400024: 013_RLeg
+    400026: 014_RFoot
+    400028: 015_RToe
+    400030: 016_EndRToe
+    400032: 017_RShoulder
+    400034: 018_RArm
+    400036: 019_EndRArm
+    400038: 020_Spine
+    400040: 021_Head
+    400042: 022_FeelerF1
+    400044: 023_FeelerA1
+    400046: 024_FeelerA2
+    400048: 025_EndFeelerA2
+    400050: 026_FeelerB1
+    400052: 027_FeelerB2
+    400054: 028_EndFeelerB2
+    400056: 029_FeelerC1
+    400058: 030_FeelerC2
+    400060: 031_EndFeelerC2
+    400062: 032_FeelerD1
+    400064: 033_FeelerD2
+    400066: 034_EndFeelerD2
+    400068: 035_FeelerE1
+    400070: 036_FeelerE2
+    400072: 037_EndFeelerE2
+    400074: 038_FeelerF2
+    400076: 039_EndFeelerF2
+    400078: 040_VriTex00
+    400080: 041_pm0045_00_BodySkin
+    400082: 042_pm0045_00_PetalSkin
+    400084: Vileplume
+    400086: //RootNode
+    4300000: Vileplume
+    9500000: //RootNode
+    13700000: Vileplume
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

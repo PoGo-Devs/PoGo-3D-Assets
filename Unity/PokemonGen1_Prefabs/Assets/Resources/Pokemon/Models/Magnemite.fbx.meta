@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 5fcd35d41343902418f7a808a878f0a5
+timeCreated: 1472640149
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EndFeeler
+    100002: EndLFoot
+    100004: EndLHand
+    100006: EndRFoot
+    100008: EndRHand
+    100010: Feeler
+    100012: LArm
+    100014: LFoot
+    100016: LHand
+    100018: //RootNode
+    100020: mesh_0_pm0081_00_Skin_006
+    100022: mesh_1_pm0081_00_Skin_006
+    100024: mesh_2_pm0081_00_Skin_006
+    100026: mesh_3_pm0081_00_Skin_006
+    100028: mesh_4_pm0081_00_Skin_006
+    100030: mesh_5_pm0081_00_Skin_006
+    100032: mesh_6_pm0081_00_Skin_006
+    100034: mesh_7_pm0081_00_Skin_006
+    100036: Origin
+    100038: pm0081_00
+    100040: pm0081_00_Skin
+    100042: RArm
+    100044: RFoot
+    100046: RHand
+    100048: Waist
+    400000: EndFeeler
+    400002: EndLFoot
+    400004: EndLHand
+    400006: EndRFoot
+    400008: EndRHand
+    400010: Feeler
+    400012: LArm
+    400014: LFoot
+    400016: LHand
+    400018: //RootNode
+    400020: mesh_0_pm0081_00_Skin_006
+    400022: mesh_1_pm0081_00_Skin_006
+    400024: mesh_2_pm0081_00_Skin_006
+    400026: mesh_3_pm0081_00_Skin_006
+    400028: mesh_4_pm0081_00_Skin_006
+    400030: mesh_5_pm0081_00_Skin_006
+    400032: mesh_6_pm0081_00_Skin_006
+    400034: mesh_7_pm0081_00_Skin_006
+    400036: Origin
+    400038: pm0081_00
+    400040: pm0081_00_Skin
+    400042: RArm
+    400044: RFoot
+    400046: RHand
+    400048: Waist
+    4300000: mesh_0_pm0081_00_Skin_006
+    4300002: mesh_1_pm0081_00_Skin_006
+    4300004: mesh_2_pm0081_00_Skin_006
+    4300006: mesh_3_pm0081_00_Skin_006
+    4300008: mesh_4_pm0081_00_Skin_006
+    4300010: mesh_5_pm0081_00_Skin_006
+    4300012: mesh_6_pm0081_00_Skin_006
+    4300014: mesh_7_pm0081_00_Skin_006
+    9500000: //RootNode
+    13700000: mesh_0_pm0081_00_Skin_006
+    13700002: mesh_1_pm0081_00_Skin_006
+    13700004: mesh_2_pm0081_00_Skin_006
+    13700006: mesh_3_pm0081_00_Skin_006
+    13700008: mesh_4_pm0081_00_Skin_006
+    13700010: mesh_5_pm0081_00_Skin_006
+    13700012: mesh_6_pm0081_00_Skin_006
+    13700014: mesh_7_pm0081_00_Skin_006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

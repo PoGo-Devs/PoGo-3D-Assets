@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 8bc284f79c5567743b024b556e8c6524
+timeCreated: 1472638344
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001_pm0043_00
+    100002: 002_Origin
+    100004: 003_Waist
+    100006: 004_EndWaist
+    100008: 005_FeelerA1
+    100010: 006_FeelerA2
+    100012: 007_FeelerA3
+    100014: 008_FeelerA4
+    100016: 009_EndFeelerA4
+    100018: 010_LFeelerB1
+    100020: 011_LFeelerB2
+    100022: 012_LFeelerB3
+    100024: 013_EndLFeelerB3
+    100026: 014_LFeelerC1
+    100028: 015_LFeelerC2
+    100030: 016_LFeelerC3
+    100032: 017_EndLFeelerC3
+    100034: 018_LThigh
+    100036: 019_LFoot
+    100038: 020_EndLFoot
+    100040: 021_LToe
+    100042: 022_EndLToe
+    100044: 023_RFeelerB1
+    100046: 024_RFeelerB2
+    100048: 025_RFeelerB3
+    100050: 026_EndRFeelerB3
+    100052: 027_RFeelerC1
+    100054: 028_RFeelerC2
+    100056: 029_RFeelerC3
+    100058: 030_EndRFeelerC3
+    100060: 031_RThigh
+    100062: 032_RFoot
+    100064: 033_EndRFoot
+    100066: 034_RToe
+    100068: 035_EndRToe
+    100070: 036_pm0043_00_bodyASkin
+    100072: 037_pm0043_00_bodyBSkin
+    100074: //RootNode
+    100076: Oddish
+    400000: 001_pm0043_00
+    400002: 002_Origin
+    400004: 003_Waist
+    400006: 004_EndWaist
+    400008: 005_FeelerA1
+    400010: 006_FeelerA2
+    400012: 007_FeelerA3
+    400014: 008_FeelerA4
+    400016: 009_EndFeelerA4
+    400018: 010_LFeelerB1
+    400020: 011_LFeelerB2
+    400022: 012_LFeelerB3
+    400024: 013_EndLFeelerB3
+    400026: 014_LFeelerC1
+    400028: 015_LFeelerC2
+    400030: 016_LFeelerC3
+    400032: 017_EndLFeelerC3
+    400034: 018_LThigh
+    400036: 019_LFoot
+    400038: 020_EndLFoot
+    400040: 021_LToe
+    400042: 022_EndLToe
+    400044: 023_RFeelerB1
+    400046: 024_RFeelerB2
+    400048: 025_RFeelerB3
+    400050: 026_EndRFeelerB3
+    400052: 027_RFeelerC1
+    400054: 028_RFeelerC2
+    400056: 029_RFeelerC3
+    400058: 030_EndRFeelerC3
+    400060: 031_RThigh
+    400062: 032_RFoot
+    400064: 033_EndRFoot
+    400066: 034_RToe
+    400068: 035_EndRToe
+    400070: 036_pm0043_00_bodyASkin
+    400072: 037_pm0043_00_bodyBSkin
+    400074: Oddish
+    400076: //RootNode
+    4300000: Oddish
+    9500000: //RootNode
+    13700000: Oddish
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

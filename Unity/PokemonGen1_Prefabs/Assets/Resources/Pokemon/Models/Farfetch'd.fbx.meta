@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 7d2e5eca54b539847841d514012b9e17
+timeCreated: 1472638504
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BASE
+    100002: CENTER_RT
+    100004: EXTRA0
+    100006: EXTRA1
+    100008: EXTRA2
+    100010: EXTRA3
+    100012: EXTRA4
+    100014: //RootNode
+    100016: Hair
+    100018: Head
+    100020: Hip
+    100022: HUMAN__group__003
+    100024: HUMAN__group_Mesh_007
+    100026: L_Arm
+    100028: L_Foot
+    100030: L_ForeArm
+    100032: L_Hand
+    100034: L_Index1
+    100036: L_Index2
+    100038: L_Leg
+    100040: L_Middle1
+    100042: L_Middle2
+    100044: L_Pinky1
+    100046: L_Ring1
+    100048: L_Ring2
+    100050: L_Shoulder
+    100052: L_Toe1
+    100054: L_UpLeg
+    100056: LowerBeak
+    100058: Neck
+    100060: Negi1
+    100062: Negi2
+    100064: Negi3
+    100066: R_Arm
+    100068: R_Foot
+    100070: R_ForeArm
+    100072: R_Hand
+    100074: R_Index1
+    100076: R_Index2
+    100078: R_Leg
+    100080: R_Middle1
+    100082: R_Middle2
+    100084: R_Pinky1
+    100086: R_Ring1
+    100088: R_Ring2
+    100090: R_Shoulder
+    100092: R_Toe1
+    100094: R_UpLeg
+    100096: Spine1
+    100098: Spine2
+    100100: Tail1
+    100102: Tail2
+    100104: THROW_NULL
+    100106: UpperBeak
+    400000: BASE
+    400002: CENTER_RT
+    400004: EXTRA0
+    400006: EXTRA1
+    400008: EXTRA2
+    400010: EXTRA3
+    400012: EXTRA4
+    400014: //RootNode
+    400016: Hair
+    400018: Head
+    400020: Hip
+    400022: HUMAN__group__003
+    400024: HUMAN__group_Mesh_007
+    400026: L_Arm
+    400028: L_Foot
+    400030: L_ForeArm
+    400032: L_Hand
+    400034: L_Index1
+    400036: L_Index2
+    400038: L_Leg
+    400040: L_Middle1
+    400042: L_Middle2
+    400044: L_Pinky1
+    400046: L_Ring1
+    400048: L_Ring2
+    400050: L_Shoulder
+    400052: L_Toe1
+    400054: L_UpLeg
+    400056: LowerBeak
+    400058: Neck
+    400060: Negi1
+    400062: Negi2
+    400064: Negi3
+    400066: R_Arm
+    400068: R_Foot
+    400070: R_ForeArm
+    400072: R_Hand
+    400074: R_Index1
+    400076: R_Index2
+    400078: R_Leg
+    400080: R_Middle1
+    400082: R_Middle2
+    400084: R_Pinky1
+    400086: R_Ring1
+    400088: R_Ring2
+    400090: R_Shoulder
+    400092: R_Toe1
+    400094: R_UpLeg
+    400096: Spine1
+    400098: Spine2
+    400100: Tail1
+    400102: Tail2
+    400104: THROW_NULL
+    400106: UpperBeak
+    4300000: HUMAN__group_Mesh_007
+    4300002: HUMAN__group__003
+    9500000: //RootNode
+    13700000: HUMAN__group__003
+    13700002: HUMAN__group_Mesh_007
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

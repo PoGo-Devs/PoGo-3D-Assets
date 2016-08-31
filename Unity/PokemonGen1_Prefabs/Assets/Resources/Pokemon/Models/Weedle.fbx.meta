@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 16be6ed1f6027d64cba7e15331ee9fa8
+timeCreated: 1472638107
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001_pm0013_00
+    100002: 002_Origin
+    100004: 003_Waist
+    100006: 004_Hips
+    100008: 005_LFootE
+    100010: 006_EndLFootE
+    100012: 007_RFootE
+    100014: 008_EndRFootE
+    100016: 009_Tail1
+    100018: 010_LFootF
+    100020: 011_EndLFootF
+    100022: 012_RFootF
+    100024: 013_EndRFootF
+    100026: 014_Tail2
+    100028: 015_LFootG
+    100030: 016_EndLFootG
+    100032: 017_RFootG
+    100034: 018_EndRFootG
+    100036: 019_Tail3
+    100038: 020_Tail4
+    100040: 021_EndTail4
+    100042: 022_Spine1
+    100044: 023_LFootD
+    100046: 024_EndLFootD
+    100048: 025_RFootD
+    100050: 026_EndRFootD
+    100052: 027_Spine2
+    100054: 028_LFootC
+    100056: 029_EndLFootC
+    100058: 030_RFootC
+    100060: 031_EndRFootC
+    100062: 032_Spine3
+    100064: 033_LFootB
+    100066: 034_EndLFootB
+    100068: 035_RFootB
+    100070: 036_EndRFootB
+    100072: 037_Spine4
+    100074: 038_Head
+    100076: 039_EndHead
+    100078: 040_Nose
+    100080: 041_EndNose
+    100082: 042_LFootA
+    100084: 043_EndLFootA
+    100086: 044_RFootA
+    100088: 045_EndRFootA
+    100090: 046_pm0013_00_Skin
+    100092: //RootNode
+    100094: Weedle
+    400000: 001_pm0013_00
+    400002: 002_Origin
+    400004: 003_Waist
+    400006: 004_Hips
+    400008: 005_LFootE
+    400010: 006_EndLFootE
+    400012: 007_RFootE
+    400014: 008_EndRFootE
+    400016: 009_Tail1
+    400018: 010_LFootF
+    400020: 011_EndLFootF
+    400022: 012_RFootF
+    400024: 013_EndRFootF
+    400026: 014_Tail2
+    400028: 015_LFootG
+    400030: 016_EndLFootG
+    400032: 017_RFootG
+    400034: 018_EndRFootG
+    400036: 019_Tail3
+    400038: 020_Tail4
+    400040: 021_EndTail4
+    400042: 022_Spine1
+    400044: 023_LFootD
+    400046: 024_EndLFootD
+    400048: 025_RFootD
+    400050: 026_EndRFootD
+    400052: 027_Spine2
+    400054: 028_LFootC
+    400056: 029_EndLFootC
+    400058: 030_RFootC
+    400060: 031_EndRFootC
+    400062: 032_Spine3
+    400064: 033_LFootB
+    400066: 034_EndLFootB
+    400068: 035_RFootB
+    400070: 036_EndRFootB
+    400072: 037_Spine4
+    400074: 038_Head
+    400076: 039_EndHead
+    400078: 040_Nose
+    400080: 041_EndNose
+    400082: 042_LFootA
+    400084: 043_EndLFootA
+    400086: 044_RFootA
+    400088: 045_EndRFootA
+    400090: 046_pm0013_00_Skin
+    400092: Weedle
+    400094: //RootNode
+    4300000: Weedle
+    9500000: //RootNode
+    13700000: Weedle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

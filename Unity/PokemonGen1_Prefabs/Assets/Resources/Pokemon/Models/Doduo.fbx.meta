@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: dea79cfebdf534040a8a9cdb757ed73e
+timeCreated: 1472638508
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DoduoF
+    100004: EndHips
+    100006: EndLFoot
+    100008: EndLHead
+    100010: EndLLowerBeak
+    100012: EndLToeA2
+    100014: EndLToeB2
+    100016: EndLToeC2
+    100018: EndLToeD2
+    100020: EndLTongue
+    100022: EndLUpperBeak
+    100024: EndRFoot
+    100026: EndRHead
+    100028: EndRLowerBeak
+    100030: EndRToeA2
+    100032: EndRToeB2
+    100034: EndRToeC2
+    100036: EndRToeD2
+    100038: EndRTongue
+    100040: EndRUpperBeak
+    100042: EndWaist
+    100044: Hips
+    100046: LFoot
+    100048: LHead
+    100050: LLeg
+    100052: LLowerBeak
+    100054: LNeck1
+    100056: LNeck2
+    100058: LNeck3
+    100060: LThigh
+    100062: LToeA1
+    100064: LToeA2
+    100066: LToeB1
+    100068: LToeB2
+    100070: LToeC1
+    100072: LToeC2
+    100074: LToeD1
+    100076: LToeD2
+    100078: LTongue
+    100080: LUpperBeak
+    100082: Origin
+    100084: pm0084_00_BodySkin
+    100086: pm0084_00_dodo
+    100088: pm0084_00_NeckASkin
+    100090: pm0084_00_NeckBSkin
+    100092: RFoot
+    100094: RHead
+    100096: RLeg
+    100098: RLowerBeak
+    100100: RNeck1
+    100102: RNeck2
+    100104: RNeck3
+    100106: RThigh
+    100108: RToeA1
+    100110: RToeA2
+    100112: RToeB1
+    100114: RToeB2
+    100116: RToeC1
+    100118: RToeC2
+    100120: RToeD1
+    100122: RToeD2
+    100124: RTongue
+    100126: RUpperBeak
+    100128: VriVis00
+    100130: VriVis01
+    100132: Waist
+    400000: //RootNode
+    400002: DoduoF
+    400004: EndHips
+    400006: EndLFoot
+    400008: EndLHead
+    400010: EndLLowerBeak
+    400012: EndLToeA2
+    400014: EndLToeB2
+    400016: EndLToeC2
+    400018: EndLToeD2
+    400020: EndLTongue
+    400022: EndLUpperBeak
+    400024: EndRFoot
+    400026: EndRHead
+    400028: EndRLowerBeak
+    400030: EndRToeA2
+    400032: EndRToeB2
+    400034: EndRToeC2
+    400036: EndRToeD2
+    400038: EndRTongue
+    400040: EndRUpperBeak
+    400042: EndWaist
+    400044: Hips
+    400046: LFoot
+    400048: LHead
+    400050: LLeg
+    400052: LLowerBeak
+    400054: LNeck1
+    400056: LNeck2
+    400058: LNeck3
+    400060: LThigh
+    400062: LToeA1
+    400064: LToeA2
+    400066: LToeB1
+    400068: LToeB2
+    400070: LToeC1
+    400072: LToeC2
+    400074: LToeD1
+    400076: LToeD2
+    400078: LTongue
+    400080: LUpperBeak
+    400082: Origin
+    400084: pm0084_00_BodySkin
+    400086: pm0084_00_dodo
+    400088: pm0084_00_NeckASkin
+    400090: pm0084_00_NeckBSkin
+    400092: RFoot
+    400094: RHead
+    400096: RLeg
+    400098: RLowerBeak
+    400100: RNeck1
+    400102: RNeck2
+    400104: RNeck3
+    400106: RThigh
+    400108: RToeA1
+    400110: RToeA2
+    400112: RToeB1
+    400114: RToeB2
+    400116: RToeC1
+    400118: RToeC2
+    400120: RToeD1
+    400122: RToeD2
+    400124: RTongue
+    400126: RUpperBeak
+    400128: VriVis00
+    400130: VriVis01
+    400132: Waist
+    4300000: DoduoF
+    9500000: //RootNode
+    13700000: DoduoF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

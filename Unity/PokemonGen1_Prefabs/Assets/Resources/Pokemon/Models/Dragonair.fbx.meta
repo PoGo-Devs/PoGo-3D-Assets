@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 77c9040be75f57e48ad5ee7ead0f21c9
+timeCreated: 1472639988
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dragonair
+    100004: EndFeeler
+    100006: EndHead
+    100008: EndLEar2
+    100010: EndREar2
+    100012: EndTail10
+    100014: Feeler
+    100016: Head
+    100018: Hips
+    100020: LEar1
+    100022: LEar2
+    100024: Origin
+    100026: pm0148_00
+    100028: pm0148_00_Skin
+    100030: REar1
+    100032: REar2
+    100034: Spine1
+    100036: Spine2
+    100038: Spine3
+    100040: Spine4
+    100042: Spine5
+    100044: Spine6
+    100046: Spine7
+    100048: Tail1
+    100050: Tail10
+    100052: Tail2
+    100054: Tail3
+    100056: Tail4
+    100058: Tail5
+    100060: Tail6
+    100062: Tail7
+    100064: Tail8
+    100066: Tail9
+    100068: Waist
+    400000: //RootNode
+    400002: Dragonair
+    400004: EndFeeler
+    400006: EndHead
+    400008: EndLEar2
+    400010: EndREar2
+    400012: EndTail10
+    400014: Feeler
+    400016: Head
+    400018: Hips
+    400020: LEar1
+    400022: LEar2
+    400024: Origin
+    400026: pm0148_00
+    400028: pm0148_00_Skin
+    400030: REar1
+    400032: REar2
+    400034: Spine1
+    400036: Spine2
+    400038: Spine3
+    400040: Spine4
+    400042: Spine5
+    400044: Spine6
+    400046: Spine7
+    400048: Tail1
+    400050: Tail10
+    400052: Tail2
+    400054: Tail3
+    400056: Tail4
+    400058: Tail5
+    400060: Tail6
+    400062: Tail7
+    400064: Tail8
+    400066: Tail9
+    400068: Waist
+    4300000: Dragonair
+    9500000: //RootNode
+    13700000: Dragonair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

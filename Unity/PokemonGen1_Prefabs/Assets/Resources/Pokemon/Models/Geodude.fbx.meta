@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: b014be2818a926f4ba919cae52e21403
+timeCreated: 1472638470
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001_pm0074_00
+    100002: 002_Origin
+    100004: 003_Waist
+    100006: 004_EndWaist
+    100008: 005_Head
+    100010: 006_EndHead
+    100012: 007_Jaw
+    100014: 008_EndJaw
+    100016: 009_LArm
+    100018: 010_LForeArm
+    100020: 011_LHand
+    100022: 012_EndLHand
+    100024: 013_LFingerA1
+    100026: 014_LFingerA2
+    100028: 015_EndLFingerA2
+    100030: 016_LFingerB1
+    100032: 017_LFingerB2
+    100034: 018_LFingerB3
+    100036: 019_EndLFingerB3
+    100038: 020_LFingerC1
+    100040: 021_LFingerC2
+    100042: 022_LFingerC3
+    100044: 023_EndLFingerC3
+    100046: 024_LFingerD1
+    100048: 025_LFingerD2
+    100050: 026_LFingerD3
+    100052: 027_EndLFingerD3
+    100054: 028_LFingerE1
+    100056: 029_LFingerE2
+    100058: 030_LFingerE3
+    100060: 031_EndLFingerE3
+    100062: 032_RArm
+    100064: 033_RForeArm
+    100066: 034_RHand
+    100068: 035_EndRHand
+    100070: 036_RFingerA1
+    100072: 037_RFingerA2
+    100074: 038_EndRFingerA2
+    100076: 039_RFingerB1
+    100078: 040_RFingerB2
+    100080: 041_RFingerB3
+    100082: 042_EndRFingerB3
+    100084: 043_RFingerC1
+    100086: 044_RFingerC2
+    100088: 045_RFingerC3
+    100090: 046_EndRFingerC3
+    100092: 047_RFingerD1
+    100094: 048_RFingerD2
+    100096: 049_RFingerD3
+    100098: 050_EndRFingerD3
+    100100: 051_RFingerE1
+    100102: 052_RFingerE2
+    100104: 053_RFingerE3
+    100106: 054_EndRFingerE3
+    100108: 055_pm0074_00_BodySkin
+    100110: 056_pm0074_00_IrisSkin
+    100112: //RootNode
+    100114: Geodude
+    400000: 001_pm0074_00
+    400002: 002_Origin
+    400004: 003_Waist
+    400006: 004_EndWaist
+    400008: 005_Head
+    400010: 006_EndHead
+    400012: 007_Jaw
+    400014: 008_EndJaw
+    400016: 009_LArm
+    400018: 010_LForeArm
+    400020: 011_LHand
+    400022: 012_EndLHand
+    400024: 013_LFingerA1
+    400026: 014_LFingerA2
+    400028: 015_EndLFingerA2
+    400030: 016_LFingerB1
+    400032: 017_LFingerB2
+    400034: 018_LFingerB3
+    400036: 019_EndLFingerB3
+    400038: 020_LFingerC1
+    400040: 021_LFingerC2
+    400042: 022_LFingerC3
+    400044: 023_EndLFingerC3
+    400046: 024_LFingerD1
+    400048: 025_LFingerD2
+    400050: 026_LFingerD3
+    400052: 027_EndLFingerD3
+    400054: 028_LFingerE1
+    400056: 029_LFingerE2
+    400058: 030_LFingerE3
+    400060: 031_EndLFingerE3
+    400062: 032_RArm
+    400064: 033_RForeArm
+    400066: 034_RHand
+    400068: 035_EndRHand
+    400070: 036_RFingerA1
+    400072: 037_RFingerA2
+    400074: 038_EndRFingerA2
+    400076: 039_RFingerB1
+    400078: 040_RFingerB2
+    400080: 041_RFingerB3
+    400082: 042_EndRFingerB3
+    400084: 043_RFingerC1
+    400086: 044_RFingerC2
+    400088: 045_RFingerC3
+    400090: 046_EndRFingerC3
+    400092: 047_RFingerD1
+    400094: 048_RFingerD2
+    400096: 049_RFingerD3
+    400098: 050_EndRFingerD3
+    400100: 051_RFingerE1
+    400102: 052_RFingerE2
+    400104: 053_RFingerE3
+    400106: 054_EndRFingerE3
+    400108: 055_pm0074_00_BodySkin
+    400110: 056_pm0074_00_IrisSkin
+    400112: //RootNode
+    400114: Geodude
+    4300000: Geodude
+    9500000: //RootNode
+    13700000: Geodude
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
