@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 43daafc89f0fe1549ad63bea0c859ab5
+timeCreated: 1472718448
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001_pm0046_00
+    100002: 002_Origin
+    100004: 003_Waist
+    100006: 004_EndWaist
+    100008: 005_Spine
+    100010: 006_Head
+    100012: 007_EndHead2
+    100014: 008_LFeelerA
+    100016: 009_EndLFeelerA
+    100018: 010_LFeelerB
+    100020: 011_EndLFeelerB
+    100022: 012_RFeelerA
+    100024: 013_EndRFeelerA
+    100026: 014_RFeelerB
+    100028: 015_EndRFeelerB
+    100030: 016_LArm
+    100032: 017_LForeArm
+    100034: 018_LHand
+    100036: 019_EndLHand
+    100038: 020_LFeelerC
+    100040: 021_EndLFeelerC
+    100042: 022_LThigh
+    100044: 023_LLeg
+    100046: 024_LFoot
+    100048: 025_EndLFoot
+    100050: 026_LThigh2
+    100052: 027_LLeg2
+    100054: 028_LFoot2
+    100056: 029_EndLFoot2
+    100058: 030_RArm
+    100060: 031_RForeArm
+    100062: 032_RHand
+    100064: 033_EndRHand
+    100066: 034_RFeelerC
+    100068: 035_EndRFeelerC
+    100070: 036_RThigh
+    100072: 037_RLeg
+    100074: 038_RFoot
+    100076: 039_EndRFoot
+    100078: 040_RThigh2
+    100080: 041_RLeg2
+    100082: 042_RFoot2
+    100084: 043_EndRFoot2
+    100086: 044_pm0046_00_HghtLight_Skin
+    100088: 045_pm0046_00_Skin
+    100090: //RootNode
+    100092: Paras
+    400000: 001_pm0046_00
+    400002: 002_Origin
+    400004: 003_Waist
+    400006: 004_EndWaist
+    400008: 005_Spine
+    400010: 006_Head
+    400012: 007_EndHead2
+    400014: 008_LFeelerA
+    400016: 009_EndLFeelerA
+    400018: 010_LFeelerB
+    400020: 011_EndLFeelerB
+    400022: 012_RFeelerA
+    400024: 013_EndRFeelerA
+    400026: 014_RFeelerB
+    400028: 015_EndRFeelerB
+    400030: 016_LArm
+    400032: 017_LForeArm
+    400034: 018_LHand
+    400036: 019_EndLHand
+    400038: 020_LFeelerC
+    400040: 021_EndLFeelerC
+    400042: 022_LThigh
+    400044: 023_LLeg
+    400046: 024_LFoot
+    400048: 025_EndLFoot
+    400050: 026_LThigh2
+    400052: 027_LLeg2
+    400054: 028_LFoot2
+    400056: 029_EndLFoot2
+    400058: 030_RArm
+    400060: 031_RForeArm
+    400062: 032_RHand
+    400064: 033_EndRHand
+    400066: 034_RFeelerC
+    400068: 035_EndRFeelerC
+    400070: 036_RThigh
+    400072: 037_RLeg
+    400074: 038_RFoot
+    400076: 039_EndRFoot
+    400078: 040_RThigh2
+    400080: 041_RLeg2
+    400082: 042_RFoot2
+    400084: 043_EndRFoot2
+    400086: 044_pm0046_00_HghtLight_Skin
+    400088: 045_pm0046_00_Skin
+    400090: Paras
+    400092: //RootNode
+    4300000: Paras
+    9500000: //RootNode
+    13700000: Paras
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
